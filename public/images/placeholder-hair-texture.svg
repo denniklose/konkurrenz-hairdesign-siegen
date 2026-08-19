@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Abstrakter Bildplatzhalter für Haarstruktur">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#18131a"/><stop offset=".52" stop-color="#2d4265"/><stop offset="1" stop-color="#08090b"/></linearGradient>
+    <linearGradient id="wave" x1="0" x2="1"><stop stop-color="#e0c7a6"/><stop offset=".45" stop-color="#8f715b"/><stop offset="1" stop-color="#f0d6b0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#wave)" stroke-linecap="round">
+    <path d="M-40 160c210-180 352 168 565-14 214-182 369 167 733-45" stroke-width="68"/>
+    <path d="M-65 310c246-193 383 178 611-8 228-185 355 144 724-22" stroke-width="61"/>
+    <path d="M-30 460c194-171 397 185 605-7 208-192 378 140 650-12" stroke-width="74"/>
+    <path d="M-46 630c258-190 392 188 638-10 245-198 354 149 658-24" stroke-width="64"/>
+  </g>
+  <text x="58" y="796" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="31" letter-spacing="3">BILDPLATZHALTER</text>
+  <text x="58" y="844" fill="#c8cedb" font-family="Arial, Helvetica, sans-serif" font-size="22">Lizenziertes Salonbild einsetzen</text>
+</svg>

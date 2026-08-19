@@ -1,0 +1,309 @@
+{
+  "template": {
+    "name": "Friseursalon Starter",
+    "isStarter": true,
+    "handoverStatus": "draft"
+  },
+  "identity": {
+    "name": "Atelier Form",
+    "legalName": "BITTE VOR VERÖFFENTLICHUNG ERSETZEN",
+    "owner": "BITTE VOR VERÖFFENTLICHUNG ERSETZEN",
+    "descriptor": "Friseursalon · Musterstadt",
+    "address": ["Musterstraße 1", "12345 Musterstadt"],
+    "phoneDisplay": "01234 / 567890",
+    "phoneHref": "tel:+491234567890",
+    "email": "bitte-ersetzen@example.invalid",
+    "websiteUrl": "https://example-salon.invalid",
+    "year": "2026",
+    "locale": "de_DE"
+  },
+  "design": {
+    "accent": "#31467f",
+    "accentBright": "#5d73ab",
+    "accentDeep": "#21315f",
+    "logo": "/images/brand-mark.svg",
+    "favicon": "/favicon.svg"
+  },
+  "navigation": [
+    { "label": "Start", "href": "/" },
+    { "label": "Team", "href": "/team" },
+    { "label": "Salon", "href": "/salon" },
+    { "label": "Öffnungszeiten/Kontakt", "href": "/oeffnungszeiten" },
+    { "label": "Über Uns", "href": "/ueber-uns" }
+  ],
+  "map": {
+    "mode": "click-to-load",
+    "providerName": "Google Maps",
+    "title": "Karte zum Friseursalon in Musterstadt",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Musterstra%C3%9Fe+1%2C+12345+Musterstadt",
+    "embedUrl": "https://www.google.com/maps?q=Musterstra%C3%9Fe%201%2C%2012345%20Musterstadt&z=15&hl=de&output=embed",
+    "consentLabel": "Google Maps laden",
+    "consentCopy": "Beim Laden der Karte können Daten an Google übertragen werden.",
+    "routeLabel": "Route in Google Maps öffnen"
+  },
+  "seo": {
+    "home": {
+      "path": "/",
+      "title": "Atelier Form | Friseur in Musterstadt",
+      "description": "Atelier Form in Musterstadt: Haarschnitt, Farbe und Pflege – persönlich abgestimmt."
+    },
+    "team": {
+      "path": "/team",
+      "title": "Team | Atelier Form",
+      "description": "Lerne das Team von Atelier Form in Musterstadt kennen."
+    },
+    "salon": {
+      "path": "/salon",
+      "title": "Salon | Atelier Form",
+      "description": "Einblick in Salon, Leistungen und Arbeitsweise von Atelier Form."
+    },
+    "contact": {
+      "path": "/oeffnungszeiten",
+      "title": "Öffnungszeiten & Kontakt | Atelier Form",
+      "description": "Öffnungszeiten, Telefonnummer und Anfahrt zu Atelier Form in Musterstadt."
+    },
+    "about": {
+      "path": "/ueber-uns",
+      "title": "Über Uns | Atelier Form",
+      "description": "Die Geschichte und Haltung von Atelier Form."
+    },
+    "booking": {
+      "path": "/termin-buchen",
+      "title": "Termin vereinbaren | Atelier Form",
+      "description": "Termin und Kontakt für Atelier Form in Musterstadt."
+    },
+    "imprint": {
+      "path": "/impressum",
+      "title": "Impressum | Atelier Form",
+      "description": "Impressum von Atelier Form."
+    },
+    "privacy": {
+      "path": "/datenschutz",
+      "title": "Datenschutz | Atelier Form",
+      "description": "Datenschutzhinweise von Atelier Form."
+    }
+  },
+  "hero": {
+    "eyebrow": "Friseursalon · Musterstadt",
+    "titleLead": "Haare, die",
+    "titleAccent": "zu dir passen.",
+    "intro": "Schnitt, Farbe und Pflege – persönlich abgestimmt auf dich und dein Haar.",
+    "ctaLabel": "Termin telefonisch vereinbaren",
+    "trustLine": "Persönliche Beratung beginnt mit einem guten Gespräch.",
+    "primaryImage": {
+      "src": "/images/placeholder-hair-hero.svg",
+      "alt": "Platzhalter für ein lizenziertes Salonbild mit Haaren im Mittelpunkt",
+      "caption": "Schnitt · Farbe · Pflege"
+    },
+    "secondaryImage": {
+      "src": "/images/placeholder-hair-mens.svg",
+      "alt": "Platzhalter für ein lizenziertes Bild eines Männerhaarschnitts",
+      "caption": "Männerhaarschnitt · individuell"
+    }
+  },
+  "servicesSection": {
+    "kicker": "Was wir für dich tun",
+    "title": "Gutes Haar beginnt mit guter Handarbeit.",
+    "intro": "Passe diese Leistungen nur an den tatsächlichen Salonumfang an."
+  },
+  "services": [
+    {
+      "label": "Schnitt",
+      "title": "Haarschnitte",
+      "copy": "Präzise Schnitte, abgestimmt auf Haarstruktur, Stil und deinen Alltag."
+    },
+    {
+      "label": "Farbe",
+      "title": "Farbe & Tönung",
+      "copy": "Natürliche Nuancen und ausdrucksstarke Veränderungen, passend zu deinem Wunsch."
+    },
+    {
+      "label": "Form",
+      "title": "Styling & Form",
+      "copy": "Bewegung, Struktur und ein Look, der sich für dich richtig anfühlt."
+    },
+    {
+      "label": "Pflege",
+      "title": "Haarpflege",
+      "copy": "Pflegeempfehlungen, die zu deinem Haar und deinem gewünschten Ergebnis passen."
+    }
+  ],
+  "serviceImages": [
+    {
+      "src": "/images/placeholder-hair-colour.svg",
+      "alt": "Platzhalter für ein lizenziertes Farbergebnis",
+      "caption": "Farbe & Tönung"
+    },
+    {
+      "src": "/images/placeholder-hair-texture.svg",
+      "alt": "Platzhalter für ein lizenziertes Stylingbild",
+      "caption": "Schnitt & Styling"
+    },
+    {
+      "src": "/images/placeholder-hair-mens.svg",
+      "alt": "Platzhalter für einen lizenzierten Männerhaarschnitt",
+      "caption": "Männerhaarschnitt"
+    }
+  ],
+  "historySection": {
+    "kicker": "Deine Geschichte",
+    "title": "Was deinen Salon ausmacht.",
+    "intro": "Ersetze diese Beispieltexte ausschließlich durch bestätigte Fakten des Salons.",
+    "quote": "Handwerk, das zu dir passt.",
+    "quoteSource": "Die Haltung von Atelier Form"
+  },
+  "history": [
+    {
+      "year": "Heute",
+      "title": "Persönlich",
+      "copy": "Beschreibe hier, was Kundinnen und Kunden im Salon konkret erwartet."
+    },
+    {
+      "year": "Team",
+      "title": "Erfahren",
+      "copy": "Ergänze nur bestätigte Qualifikationen und fachliche Schwerpunkte."
+    },
+    {
+      "year": "Stil",
+      "title": "Individuell",
+      "copy": "Zeige, welche Looks, Haararten oder Wünsche besonders gut zum Salon passen."
+    }
+  ],
+  "hours": [
+    ["Montag", "nach Vereinbarung"],
+    ["Dienstag", "BITTE ERSETZEN"],
+    ["Mittwoch", "BITTE ERSETZEN"],
+    ["Donnerstag", "BITTE ERSETZEN"],
+    ["Freitag", "BITTE ERSETZEN"],
+    ["Samstag", "BITTE ERSETZEN"]
+  ],
+  "hoursNote": "Öffnungszeiten vor dem Livegang mit dem Salon bestätigen.",
+  "salonPage": {
+    "hero": {
+      "eyebrow": "Der Salon",
+      "title": "Ein Ort für deinen Look.",
+      "intro": "Beschreibe den Salon nur mit bestätigten Informationen.",
+      "ctaLabel": "Termin telefonisch vereinbaren"
+    },
+    "image": {
+      "src": "/images/placeholder-hair-texture.svg",
+      "alt": "Platzhalter für ein lizenziertes Salon- oder Haarbild",
+      "caption": "Handwerk mit Blick fürs Detail"
+    },
+    "intro": {
+      "kicker": "Der Salon",
+      "title": "Gut ist, wenn es zu dir passt.",
+      "copy": "Für Schnitt, Farbe und Pflege entsteht ein Look, der zu dir und deinem Haar passt.",
+      "linkLabel": "Termin telefonisch vereinbaren"
+    },
+    "facts": [
+      {
+        "highlight": "Farbvielfalt",
+        "title": "Farbe & Tönung",
+        "copy": "Nuancen, die deinen Stil unterstreichen und zu deinem Haar passen."
+      },
+      {
+        "highlight": "Dein Stil",
+        "title": "Frisurenvorschläge",
+        "copy": "Gemeinsam finden wir einen Look, der sich nach dir anfühlt."
+      }
+    ],
+    "wideCards": [
+      {
+        "kicker": "Produkte",
+        "title": "Pflege, die passt.",
+        "copy": "Nenne hier ausschließlich Produkte oder Marken, die der Salon freigegeben hat."
+      },
+      {
+        "kicker": "Service",
+        "title": "Zeit für dich.",
+        "copy": "Beschreibe nur Services, die Kundinnen und Kunden tatsächlich erwarten dürfen."
+      }
+    ],
+    "cta": {
+      "kicker": "Persönlich abgestimmt",
+      "title": "Was zu deinem Haar passt, entscheiden wir gemeinsam.",
+      "copy": "Ein kurzes Gespräch, dann liegt der Fokus auf sorgfältiger Arbeit an deinem Haar."
+    }
+  },
+  "teamPage": {
+    "hero": {
+      "eyebrow": "Das Team",
+      "title": "Gutes Handwerk beginnt beim Team.",
+      "intro": "Ergänze hier nur öffentlich freigegebene Informationen zum Team.",
+      "ctaLabel": "Termin telefonisch vereinbaren"
+    },
+    "intro": {
+      "kicker": "Unser Team",
+      "title": "Handwerk braucht Können.",
+      "copy": "Zeige Kompetenzen, Haltungen und Schwerpunkte – ohne unbestätigte Qualifikationsversprechen."
+    },
+    "image": {
+      "src": "/images/placeholder-hair-mens.svg",
+      "alt": "Platzhalter für ein lizenziertes Team- oder Haarbild",
+      "caption": "Kompetenz in Schnitt, Farbe und Pflege"
+    },
+    "values": [
+      ["Persönlich", "Ein guter Termin beginnt mit Zuhören und einem klaren Blick auf deinen Wunsch."],
+      ["Sorgfältig", "Jeder Schritt wird mit Aufmerksamkeit für Haar, Stil und gewünschtes Ergebnis umgesetzt."],
+      ["Weiterdenken", "Ergänze hier bestätigte Fortbildungen oder fachliche Schwerpunkte des Salons."]
+    ]
+  },
+  "aboutPage": {
+    "hero": {
+      "eyebrow": "Über Uns",
+      "title": "Die Geschichte hinter dem Salon.",
+      "intro": "Erzähle hier nur die bestätigte Geschichte des Betriebs.",
+      "ctaLabel": "Termin telefonisch vereinbaren"
+    },
+    "story": {
+      "kicker": "Unsere Geschichte",
+      "title": "Was uns heute ausmacht.",
+      "paragraphs": [
+        "Ersetze diesen Platzhalter durch die echte, freigegebene Geschichte des Salons.",
+        "Geschäftsjahre, Generationen, frühere Standorte und Inhaberinnen oder Inhaber werden nur nach Kundenfreigabe veröffentlicht."
+      ]
+    },
+    "image": {
+      "src": "/images/placeholder-hair-hero.svg",
+      "alt": "Platzhalter für ein lizenziertes Bild zum Salon",
+      "caption": "Friseurhandwerk mit persönlicher Note"
+    },
+    "cta": {
+      "kicker": "Unsere Haltung",
+      "title": "Ein Salon, der zu dir passt.",
+      "copy": "Ersetze diesen Text durch die tatsächliche Haltung des Salons."
+    }
+  },
+  "bookingPage": {
+    "hero": {
+      "eyebrow": "Termin vereinbaren",
+      "title": "Dein Termin beginnt mit einem Anruf.",
+      "intro": "Nenne am Telefon kurz deinen Wunsch. Der Salon sagt dir, wie es weitergeht.",
+      "ctaLabel": "Jetzt anrufen"
+    },
+    "servicesTitle": "Was darf es sein?",
+    "servicesIntro": "Passe die Leistungsübersicht an das echte Angebot an."
+  },
+  "footer": {
+    "kicker": "Dein nächster Termin",
+    "title": "Wir freuen uns auf deinen Anruf.",
+    "ctaLabel": "Termin telefonisch vereinbaren",
+    "copy": "Friseurhandwerk, das zu dir und deinem Haar passt."
+  },
+  "legal": {
+    "taxId": "",
+    "chamber": "",
+    "professionalTitle": "",
+    "disputeResolution": "BITTE VOR VERÖFFENTLICHUNG MIT DEM SALON UND GEGEBENENFALLS RECHTLICH PRÜFEN.",
+    "privacyContactCopy": "BITTE VOR VERÖFFENTLICHUNG DURCH EINE PASSENDE DATENSCHUTZINFORMATION ERSETZEN.",
+    "privacyHostingCopy": "BITTE HOSTING- UND LOGDATENHINWEISE PRÜFEN UND ERGÄNZEN.",
+    "privacyMapsCopy": "Die Kartenansicht wird erst nach einem bewussten Klick geladen. Bitte die tatsächliche Datenverarbeitung, Rechtsgrundlage und Hinweise vor Veröffentlichung rechtlich prüfen."
+  },
+  "handover": {
+    "claimsConfirmed": false,
+    "legalReviewed": false,
+    "mapsDecisionConfirmed": false,
+    "ownershipConfirmed": false
+  }
+}

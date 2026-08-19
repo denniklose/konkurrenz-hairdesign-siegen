@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" role="img" aria-label="Abstrakter Bildplatzhalter für Männerhaarschnitt">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0b0d12"/><stop offset="1" stop-color="#29364d"/></linearGradient>
+    <linearGradient id="cut" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#a88968"/><stop offset="1" stop-color="#3a2b25"/></linearGradient>
+  </defs>
+  <rect width="1000" height="1200" fill="url(#bg)"/>
+  <path d="M230 1080c70-236 64-478 126-670 67-206 186-274 297-183 135 111 123 284 99 477-21 165 38 264 87 376z" fill="#14161b"/>
+  <path d="M300 768c31-263 71-451 186-510 124-63 254 32 272 174 13 103-38 221-53 339z" fill="url(#cut)"/>
+  <g fill="none" stroke="#d4b38c" stroke-linecap="round" opacity=".72">
+    <path d="M360 418c100-107 211-133 323-31" stroke-width="25"/>
+    <path d="M337 487c115-114 248-130 367-21" stroke-width="21"/>
+    <path d="M325 558c123-105 266-116 385-12" stroke-width="17"/>
+  </g>
+  <text x="58" y="1080" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="31" letter-spacing="3">BILDPLATZHALTER</text>
+  <text x="58" y="1126" fill="#c8cedb" font-family="Arial, Helvetica, sans-serif" font-size="22">Lizenziertes Männerbild einsetzen</text>
+</svg>
