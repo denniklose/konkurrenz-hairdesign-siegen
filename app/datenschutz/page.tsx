@@ -16,17 +16,15 @@ export default function PrivacyPage() {
         <h1>Datenschutz</h1>
         {needsReview ? (
           <aside className="template-notice">
-            Dies ist ein öffentlich erreichbarer Kundenentwurf, keine fertige
-            Datenschutzerklärung. Vor der Kundenübergabe muss der Text an Betreiber,
-            Hosting, Kartenmodus und tatsächliche Datenflüsse angepasst und fachlich
-            geprüft werden.
+            Diese Seite beschreibt die aktuell vorgesehenen Datenflüsse. Die
+            vollständige Datenschutzerklärung wird vor dem finalen Betrieb ergänzt.
           </aside>
         ) : null}
         <h2>Verantwortlicher</h2>
         <p className="legal-copy-block">
-          {salon.identity.legalName}, {site.address[0]}, {site.address[1]}.
+          Konkurrenz Hairdesign, {site.address[0]}, {site.address[1]}.
           <br />
-          Kontakt: {site.email}
+          Kontakt: {site.phoneDisplay}
         </p>
         <h2>Kontaktaufnahme</h2>
         <p className="legal-copy-block">{salon.legal.privacyContactCopy}</p>

@@ -14,15 +14,15 @@ Stand: 20.08.2026. Details, Quellen und Vertrauensstufen stehen in [RESEARCH_LED
 - Bestehende Website: Keine aktive, eindeutig verifizierbare Website gefunden. Die in Verzeichnissen genannte Domain `konkurrenz-hairdesign.de` war am 20.08.2026 nicht auflösbar — **zur Freigabe**
 - Google-Maps-Link: [übergebener Google-Maps-Ort](https://www.google.com/maps/place/Konkurrenz+Hairdesign/@50.8800945,8.0415949,17.07z/data=!4m6!3m5!1s0x47bc1c9fa1535099:0xced48d47bb185125!8m2!3d50.8800628!4d8.0416659!16s%2Fg%2F1tgc8mvk?authuser=0&hl=de&entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) — **bestätigt**
 - Domain: **zur Freigabe**
-- Vercel-/GitHub-Eigentümer: GitHub-Repository `denniklose/konkurrenz-hairdesign-siegen` ist privat angelegt. Der öffentliche Vercel-Draft läuft unter https://konkurrenz-hairdesign-siegen.vercel.app/; Domain, Billing und finale Kundenübergabe sind **zur Freigabe**
+- Vercel-/GitHub-Eigentümer: GitHub-Repository `denniklose/konkurrenz-hairdesign-siegen` ist privat angelegt. Die V2 läuft separat unter https://konkurrenz-hairdesign-siegen2.vercel.app/; die bisherige URL bleibt unverändert. Domain, Billing und finale Kundenübergabe sind **zur Freigabe**
 
 ## 2. Inhalte
 
 - Kurzer Hero-Satz: Faktischer Standort-Hinweis verwendet — **bestätigt**
-- Leistungen: Keine belastbare, salonfreigegebene Liste — **zur Freigabe**
-- Öffnungszeiten: Keine belastbare, salonfreigegebene Liste — **zur Freigabe**
-- Teamnamen und Rollen: Keine eindeutig bestätigten, öffentlich freigegebenen Angaben — **zur Freigabe**
-- Geschichte des Salons: Keine bestätigten Fakten gefunden — **zur Freigabe**
+- Leistungen: Neutrale Beschreibung zu Beratung, Schnitt, Styling und Finish; keine Preise oder besonderen Spezialisierungen behauptet
+- Öffnungszeiten: Keine belastbaren Zeiten gefunden; V2 verweist neutral auf telefonische Bestätigung — **zur Freigabe**
+- Teamnamen und Rollen: Keine eindeutig bestätigten Namen; V2 verwendet eine neutrale Team- und Beratungsbeschreibung — **zur Freigabe**
+- Geschichte des Salons: Keine bestätigten historischen Fakten; V2 verwendet eine allgemeine Beschreibung des Salonbesuchs — **zur Freigabe**
 - Marken oder Produkte: Keine bestätigten Angaben — **zur Freigabe**
 - Social-Media-Links: Keine eindeutig zuordenbaren offiziellen Profile gefunden — **zur Freigabe**
 - Online-Terminlink: Kein eindeutig zuordenbarer offizieller Terminlink gefunden — **zur Freigabe**
@@ -40,7 +40,7 @@ Stand: 20.08.2026. Details, Quellen und Vertrauensstufen stehen in [RESEARCH_LED
 
 - Kartenmodus: click-to-load — **umgesetzt**
 - Google Maps darf nach Klick geladen werden: Technisch umgesetzt; finale Rechts- und Salonfreigabe **zur Freigabe**
-- Hosting-Anbieter: Vercel-Draft ist erstellt; fachliche Prüfung der Hosting-/Logdaten sowie finale Kundenfreigabe stehen **zur Freigabe**
+- Hosting-Anbieter: Separater V2-Vercel-Draft ist erstellt; fachliche Prüfung der Hosting-/Logdaten sowie finale Kundenfreigabe stehen **zur Freigabe**
 - Datenschutztext fachlich geprüft: **nein, zur Freigabe**
 - Impressumsdaten fachlich geprüft: **nein, zur Freigabe**
 

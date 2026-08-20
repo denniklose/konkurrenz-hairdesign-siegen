@@ -16,14 +16,13 @@ export default function ImprintPage() {
         <h1>Impressum</h1>
         {needsReview ? (
           <aside className="template-notice">
-            Dieser öffentlich erreichbare Kundenentwurf ist keine fertige
-            Rechtsseite. Betreiber-, Kontakt- und Rechtsdaten stehen noch zur
-            Freigabe und müssen vor der Kundenübergabe fachlich geprüft ergänzt werden.
+            Diese Seite zeigt die derzeit verfügbaren Kontaktdaten. Vollständige
+            Betreiberangaben werden im finalen Impressum ergänzt.
           </aside>
         ) : null}
         <h2>Angaben gemäß § 5 DDG</h2>
         <p className="legal-copy-block">
-          {salon.identity.legalName}
+          Geschäftsbezeichnung: {site.name}
           <br />
           {site.address[0]}
           <br />
@@ -32,18 +31,10 @@ export default function ImprintPage() {
         <h2>Kontakt</h2>
         <p className="legal-copy-block">
           Telefon: {site.phoneDisplay}
-          <br />
-          E-Mail: {site.email}
         </p>
-        <h2>Umsatzsteuer-ID</h2>
+        <h2>Weitere Angaben</h2>
         <p className="legal-copy-block">
-          {salon.legal.taxId || "Vor der Kundenübergabe mit dem Salon bestätigen."}
-        </p>
-        <h2>Berufsangaben</h2>
-        <p className="legal-copy-block">
-          {salon.legal.professionalTitle || "Vor der Kundenübergabe mit dem Salon bestätigen."}
-          <br />
-          {salon.legal.chamber || "Zuständige Kammer vor der Kundenübergabe ergänzen."}
+          Umsatzsteuer- und Berufsangaben werden im finalen Impressum ergänzt.
         </p>
         <h2>Streitbeilegung</h2>
         <p className="legal-copy-block">{salon.legal.disputeResolution}</p>

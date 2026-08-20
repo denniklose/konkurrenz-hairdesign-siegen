@@ -11,7 +11,7 @@ export default function ContactCard() {
         <br />
         {site.address[1]}
       </h2>
-      <p>Für aktuelle Informationen erreichst du den Salon telefonisch.</p>
+      <p>Für Terminwunsch und aktuelle Zeiten erreichst du den Salon telefonisch.</p>
       <a className="button button-primary" href={site.phoneHref}>
         Telefonisch kontaktieren
       </a>

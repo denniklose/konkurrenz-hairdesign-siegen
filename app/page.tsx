@@ -78,7 +78,7 @@ export default function Home() {
           <a className="bento-card phone-card" href={site.phoneHref}>
             <BrandMark className="phone-card-mark" />
             <span className="phone-card-copy">
-              Für aktuelle Informationen erreichst du uns telefonisch.
+              Besprich deinen Wunsch direkt mit dem Salon.
             </span>
             <small>Kontakt aufnehmen</small>
             <strong>{site.phoneDisplay}</strong>

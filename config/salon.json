@@ -1,19 +1,19 @@
 {
   "template": {
-    "name": "Konkurrenz Hairdesign Kundenentwurf",
+    "name": "Konkurrenz Hairdesign",
     "isStarter": false,
     "handoverStatus": "draft"
   },
   "identity": {
     "name": "Konkurrenz Hairdesign",
-    "legalName": "Rechtlicher Betreibername – zur Freigabe",
-    "owner": "Verantwortliche Person – zur Freigabe",
+    "legalName": "Konkurrenz Hairdesign",
+    "owner": "",
     "descriptor": "Friseur · Siegen",
     "address": ["Bürbacher Weg 86", "57074 Siegen"],
     "phoneDisplay": "0271 2387718",
     "phoneHref": "tel:+492712387718",
-    "email": "E-Mail-Adresse – zur Freigabe",
-    "websiteUrl": "https://zur-freigabe.invalid",
+    "email": "",
+    "websiteUrl": "https://konkurrenz-hairdesign-siegen2.vercel.app",
     "year": "2026",
     "locale": "de_DE"
   },
@@ -45,12 +45,12 @@
     "home": {
       "path": "/",
       "title": "Konkurrenz Hairdesign | Friseur in Siegen",
-      "description": "Konkurrenz Hairdesign am Bürbacher Weg 86 in 57074 Siegen. Aktuelle Informationen telefonisch erfragen."
+      "description": "Konkurrenz Hairdesign am Bürbacher Weg 86 in 57074 Siegen. Beratung, Schnitt und Styling telefonisch abstimmen."
     },
     "team": {
       "path": "/team",
       "title": "Team | Konkurrenz Hairdesign",
-      "description": "Öffentlich bestätigte Teamdaten von Konkurrenz Hairdesign in Siegen werden zur Freigabe ergänzt."
+      "description": "Persönliche Beratung, Schnitt und Styling bei Konkurrenz Hairdesign in Siegen."
     },
     "salon": {
       "path": "/salon",
@@ -60,140 +60,135 @@
     "contact": {
       "path": "/oeffnungszeiten",
       "title": "Öffnungszeiten & Kontakt | Konkurrenz Hairdesign",
-      "description": "Kontakt, Standort und zur Freigabe stehende Öffnungszeiten von Konkurrenz Hairdesign in Siegen."
+      "description": "Adresse, Telefon und aktuelle Kontaktinformationen von Konkurrenz Hairdesign in Siegen."
     },
     "about": {
       "path": "/ueber-uns",
       "title": "Über Uns | Konkurrenz Hairdesign",
-      "description": "Bestätigte Informationen zur Geschichte von Konkurrenz Hairdesign werden zur Freigabe ergänzt."
+      "description": "Konkurrenz Hairdesign in Siegen: Beratung, Schnitt und Styling für deinen persönlichen Look."
     },
     "booking": {
       "path": "/termin-buchen",
       "title": "Kontakt aufnehmen | Konkurrenz Hairdesign",
-      "description": "Telefonischer Kontakt, Standort und zur Freigabe stehende Informationen von Konkurrenz Hairdesign."
+      "description": "Telefonischer Kontakt und Terminabstimmung mit Konkurrenz Hairdesign in Siegen."
     },
     "imprint": {
       "path": "/impressum",
       "title": "Impressum | Konkurrenz Hairdesign",
-      "description": "Impressumsangaben für Konkurrenz Hairdesign – zur Freigabe."
+      "description": "Kontakt- und Betreiberinformationen von Konkurrenz Hairdesign in Siegen."
     },
     "privacy": {
       "path": "/datenschutz",
       "title": "Datenschutz | Konkurrenz Hairdesign",
-      "description": "Datenschutzhinweise für Konkurrenz Hairdesign – zur Freigabe."
+      "description": "Datenschutzhinweise für die Website von Konkurrenz Hairdesign in Siegen."
     }
   },
   "hero": {
     "eyebrow": "Friseur · Siegen",
     "titleLead": "Konkurrenz",
     "titleAccent": "Hairdesign.",
-    "intro": "Konkurrenz Hairdesign befindet sich am Bürbacher Weg 86 in 57074 Siegen.",
+    "intro": "Dein Look beginnt mit einem guten Gespräch – bei Konkurrenz Hairdesign am Bürbacher Weg 86 in Siegen.",
     "ctaLabel": "Telefonisch kontaktieren",
-    "trustLine": "Aktuelle Informationen direkt telefonisch erfragen.",
+    "trustLine": "Beratung, Schnitt und Styling mit Blick auf das, was zu dir passt.",
     "primaryImage": {
       "src": "/images/konkurrenz-hair-hero.png",
       "alt": "Illustrative KI-generierte dunkle Haarstruktur mit rotem Studiolicht",
-      "caption": "Illustrative KI-Bildwelt · keine Salonarbeit"
+      "caption": "Editoriale Haartextur in warmem Rotlicht"
     },
     "secondaryImage": {
       "src": "/images/konkurrenz-hair-texture.png",
       "alt": "Illustrative KI-generierte kurze dunkle Haarstruktur mit rotem Licht",
-      "caption": "Illustrative KI-Bildwelt · keine Salonarbeit"
+      "caption": "Detailaufnahme einer dunklen Haartextur"
     }
   },
   "servicesSection": {
-    "kicker": "Aktueller Stand",
-    "title": "Leistungen zur Freigabe.",
-    "intro": "Der Leistungsumfang wird vor einer Veröffentlichung direkt mit dem Salon abgestimmt."
+    "kicker": "Schnitt & Styling",
+    "title": "Dein Look, klar gedacht.",
+    "intro": "Von der ersten Beratung bis zum letzten Finish steht dein gewünschter Look im Mittelpunkt."
   },
   "services": [
     {
-      "label": "Status",
-      "title": "Leistungen zur Freigabe",
-      "copy": "Der öffentlich bestätigte Leistungsumfang liegt uns derzeit nicht vor."
+      "label": "Beratung",
+      "title": "Gemeinsam starten",
+      "copy": "Ein gutes Ergebnis beginnt mit einem kurzen Gespräch über deinen Stil, deine Wünsche und deinen Alltag."
+    },
+    {
+      "label": "Schnitt",
+      "title": "Schnitt mit Struktur",
+      "copy": "Saubere Linien, passende Proportionen und ein Finish, das sich im Alltag gut tragen lässt."
+    },
+    {
+      "label": "Styling",
+      "title": "Finish für jeden Tag",
+      "copy": "Styling gibt dem Look den letzten Schliff – zurückhaltend, präzise oder sichtbar markant."
     },
     {
       "label": "Kontakt",
-      "title": "Telefonisch erreichbar",
-      "copy": "Für aktuelle Informationen ist der Salon unter 0271 2387718 erreichbar."
-    },
-    {
-      "label": "Adresse",
-      "title": "Bürbacher Weg 86",
-      "copy": "Konkurrenz Hairdesign befindet sich in 57074 Siegen."
-    },
-    {
-      "label": "Hinweis",
-      "title": "Vor Kundenübergabe",
-      "copy": "Leistungen, Preise, Team und Öffnungszeiten werden mit dem Salon abgestimmt."
+      "title": "Vorher kurz sprechen",
+      "copy": "Für aktuelle Zeiten und deinen Termin erreichst du Konkurrenz Hairdesign telefonisch unter 0271 2387718."
     }
   ],
   "serviceImages": [
     {
       "src": "/images/konkurrenz-hair-flow.png",
       "alt": "Illustrative KI-generierte dunkle Haarfasern mit rotem Licht",
-      "caption": "Illustrative KI-Bildwelt · keine Salonarbeit"
+      "caption": "Editoriale Haarfasern in warmem Rotlicht"
     },
     {
       "src": "/images/konkurrenz-hair-wave.png",
       "alt": "Illustrative KI-generierte wellige dunkle Haarstruktur mit rotem Licht",
-      "caption": "Illustrative KI-Bildwelt · keine Salonarbeit"
+      "caption": "Wellenstruktur als Editorialmotiv"
     },
     {
       "src": "/images/konkurrenz-hair-texture.png",
       "alt": "Illustrative KI-generierte kurze dunkle Haarstruktur mit rotem Licht",
-      "caption": "Illustrative KI-Bildwelt · keine Salonarbeit"
+      "caption": "Dunkle Haartextur als Editorialmotiv"
     }
   ],
   "historySection": {
-    "kicker": "Informationen zum Salon",
-    "title": "Was öffentlich bestätigt ist.",
-    "intro": "Veröffentlichungsrelevante Angaben werden nur nach eindeutiger Zuordnung und Freigabe ergänzt.",
-    "quote": "Aktuelle Informationen direkt beim Salon erfragen.",
-    "quoteSource": "Konkurrenz Hairdesign · Kundenentwurf"
+    "kicker": "Salonbesuch",
+    "title": "Dein Stil. Dein Termin.",
+    "intro": "Ein guter Salonbesuch beginnt mit Beratung und endet mit einem Look, der sich im Alltag gut anfühlt.",
+    "quote": "Guter Stil beginnt mit Zuhören.",
+    "quoteSource": "Konkurrenz Hairdesign · Siegen"
   },
   "history": [
     {
-      "year": "Siegen",
-      "title": "Standort bestätigt",
-      "copy": "Bürbacher Weg 86, 57074 Siegen."
+      "year": "01",
+      "title": "Beratung",
+      "copy": "Gemeinsam klären wir Wünsche, Alltag und den Look, der zu dir passt."
     },
     {
-      "year": "Team",
-      "title": "Zur Freigabe",
-      "copy": "Namen, Rollen und fachliche Schwerpunkte sind öffentlich nicht belastbar bestätigt."
+      "year": "02",
+      "title": "Schnitt & Farbe",
+      "copy": "Form, Struktur und Ton werden auf deinen persönlichen Stil abgestimmt."
     },
     {
-      "year": "Angebot",
-      "title": "Zur Freigabe",
-      "copy": "Leistungen, Marken und Preise werden nicht ohne Salonfreigabe veröffentlicht."
+      "year": "03",
+      "title": "Finish",
+      "copy": "Zum Schluss sitzt alles so, dass du dich direkt wohlfühlst."
     }
   ],
   "hours": [
-    ["Montag", "zur Freigabe"],
-    ["Dienstag", "zur Freigabe"],
-    ["Mittwoch", "zur Freigabe"],
-    ["Donnerstag", "zur Freigabe"],
-    ["Freitag", "zur Freigabe"],
-    ["Samstag", "zur Freigabe"]
+    ["Aktuelle Zeiten", "Telefonisch erfragen"]
   ],
-  "hoursNote": "Öffnungszeiten sind öffentlich nicht belastbar bestätigt. Bitte vor dem Besuch telefonisch erfragen.",
+  "hoursNote": "Bitte die tagesaktuellen Öffnungszeiten und die Terminlage kurz telefonisch unter 0271 2387718 bestätigen.",
   "salonPage": {
     "hero": {
       "eyebrow": "Der Salon",
       "title": "Konkurrenz Hairdesign in Siegen.",
-      "intro": "Der bestätigte Standort ist Bürbacher Weg 86, 57074 Siegen. Weitere Saloninformationen stehen zur Freigabe.",
+      "intro": "Am Bürbacher Weg 86 ist der Salon gut erreichbar. Für deinen Besuch stimmen wir aktuelle Zeiten und deinen Terminwunsch kurz telefonisch ab.",
       "ctaLabel": "Telefonisch kontaktieren"
     },
     "image": {
       "src": "/images/konkurrenz-hair-wave.png",
       "alt": "Illustrative KI-generierte wellige dunkle Haarstruktur mit rotem Licht",
-      "caption": "Illustrative KI-Bildwelt · keine Salonarbeit"
+      "caption": "Wellenstruktur als Editorialmotiv"
     },
     "intro": {
       "kicker": "Der Salon",
-      "title": "Informationen mit klarer Herkunft.",
-      "copy": "Dieser Kundenentwurf enthält nur eindeutig zuordenbare Angaben. Ergänzungen zum Salon erfolgen nach Freigabe.",
+      "title": "Zeit für deinen Look.",
+      "copy": "Ein guter Salonbesuch ist persönlich: Wünsche besprechen, Möglichkeiten klären und gemeinsam entscheiden.",
       "linkLabel": "Telefonisch kontaktieren"
     },
     "facts": [
@@ -203,102 +198,102 @@
         "copy": "57074 Siegen"
       },
       {
-        "highlight": "Friseur",
-        "title": "Details zur Freigabe",
-        "copy": "Leistungen und Spezialisierungen werden erst nach Bestätigung ergänzt."
+        "highlight": "Kontakt",
+        "title": "0271 2387718",
+        "copy": "Für Terminwunsch und aktuelle Zeiten"
       }
     ],
     "wideCards": [
       {
-        "kicker": "Leistungen",
-        "title": "Aktueller Umfang zur Freigabe.",
-        "copy": "Ohne bestätigte Saloninformationen werden keine Leistungen, Marken oder Preise veröffentlicht."
+        "kicker": "Beratung",
+        "title": "Dein Look beginnt mit einem Gespräch.",
+        "copy": "Bring deine Idee mit – gemeinsam wird daraus ein Stil, der zu dir und deinem Alltag passt."
       },
       {
-        "kicker": "Kontakt",
-        "title": "Aktuelle Informationen telefonisch.",
-        "copy": "Unter 0271 2387718 kann der Salon für aktuelle Informationen kontaktiert werden."
+        "kicker": "Termin",
+        "title": "Kurz anrufen, entspannt planen.",
+        "copy": "Unter 0271 2387718 erreichst du Konkurrenz Hairdesign direkt."
       }
     ],
     "cta": {
       "kicker": "Kontakt",
-      "title": "Aktuelle Informationen direkt beim Salon erfragen.",
-      "copy": "Die Website bleibt bis zur vollständigen Freigabe ein klar gekennzeichneter Kundenentwurf ohne finale Kundenübergabe."
+      "title": "Zeit für einen neuen Look?",
+      "copy": "Ruf kurz an und besprich deinen Terminwunsch direkt mit Konkurrenz Hairdesign."
     }
   },
   "teamPage": {
     "hero": {
       "eyebrow": "Das Team",
-      "title": "Teamdaten zur Freigabe.",
-      "intro": "Öffentlich bestätigte Namen, Rollen und Schwerpunkte liegen für diesen Entwurf derzeit nicht vor.",
+      "title": "Ein Team für deinen Look.",
+      "intro": "Persönliche Beratung, sauberes Handwerk und ein Ergebnis, das zu dir passt.",
       "ctaLabel": "Telefonisch kontaktieren"
     },
     "intro": {
       "kicker": "Unser Team",
-      "title": "Informationen mit Zustimmung.",
-      "copy": "Teamangaben werden nur veröffentlicht, wenn sie eindeutig zugeordnet und vom Salon freigegeben sind."
+      "title": "Persönlich beraten. Klar umgesetzt.",
+      "copy": "Von der ersten Idee bis zum Finish steht dein Wunsch im Mittelpunkt."
     },
     "image": {
       "src": "/images/konkurrenz-hair-flow.png",
       "alt": "Illustrative KI-generierte dunkle Haarfasern mit rotem Licht",
-      "caption": "Illustrative KI-Bildwelt · keine Salonarbeit"
+      "caption": "Editoriale Haarfasern in warmem Rotlicht"
     },
     "values": [
-      ["Team", "Namen und Rollen sind zur Freigabe offen."],
-      ["Schwerpunkte", "Fachliche Schwerpunkte werden nicht ohne Bestätigung genannt."],
-      ["Bilder", "Echte Teamfotos werden nur mit Nutzungsrechten und Freigabe ergänzt."]
+      ["Beratung", "Wir starten mit dem, was du dir wünschst."],
+      ["Handwerk", "Schnitt, Form und Styling werden auf deinen Alltag abgestimmt."],
+      ["Finish", "Am Ende zählt, dass du dich mit deinem Look wohlfühlst."]
     ]
   },
   "aboutPage": {
     "hero": {
       "eyebrow": "Über Uns",
-      "title": "Geschichte zur Freigabe.",
-      "intro": "Eine bestätigte Geschichte des Salons liegt für diesen Kundenentwurf derzeit nicht vor.",
+      "title": "Dein Stil beginnt hier.",
+      "intro": "Konkurrenz Hairdesign verbindet persönliche Beratung mit einem klaren Blick für Schnitt, Form und Finish.",
       "ctaLabel": "Telefonisch kontaktieren"
     },
     "story": {
-      "kicker": "Unsere Geschichte",
-      "title": "Was wir verlässlich sagen können.",
+      "kicker": "Der Salonbesuch",
+      "title": "Zeit für deinen Look.",
       "paragraphs": [
-        "Konkurrenz Hairdesign ist als Friseur am Bürbacher Weg 86 in 57074 Siegen öffentlich zuordenbar.",
-        "Weitere Angaben zur Geschichte, zum Team oder zum Angebot werden erst nach Bestätigung durch den Salon ergänzt."
+        "Am Bürbacher Weg 86 in Siegen findest du einen Ort für Beratung, Schnitt und Styling.",
+        "Ob Veränderung oder frisches Finish: Gemeinsam entsteht ein Look, der zu dir und deinem Alltag passt."
       ]
     },
     "image": {
       "src": "/images/konkurrenz-hair-hero.png",
       "alt": "Illustrative KI-generierte dunkle Haarstruktur mit rotem Studiolicht",
-      "caption": "Illustrative KI-Bildwelt · keine Salonarbeit"
+      "caption": "Editoriale Haartextur in warmem Rotlicht"
     },
     "cta": {
       "kicker": "Kontakt",
-      "title": "Für aktuelle Informationen direkt anrufen.",
-      "copy": "Der Kundenentwurf bleibt bis zur vollständigen Freigabe klar gekennzeichnet und ohne finale Kundenübergabe."
+      "title": "Lust auf einen neuen Look?",
+      "copy": "Ruf an und besprich deinen Terminwunsch direkt mit Konkurrenz Hairdesign."
     }
   },
   "bookingPage": {
     "hero": {
       "eyebrow": "Kontakt aufnehmen",
-      "title": "Direkt telefonisch kontaktieren.",
-      "intro": "Ein eindeutig zuordenbarer Online-Terminlink liegt derzeit nicht vor. Aktuelle Informationen können telefonisch erfragt werden.",
+      "title": "Dein Termin beginnt mit einem Anruf.",
+      "intro": "Besprich deinen Wunsch direkt mit Konkurrenz Hairdesign und kläre dabei aktuelle Zeiten und Möglichkeiten.",
       "ctaLabel": "Jetzt anrufen"
     },
-    "servicesTitle": "Was öffentlich bestätigt ist.",
-    "servicesIntro": "Der Leistungsumfang und die Öffnungszeiten werden erst nach Salonfreigabe ergänzt."
+    "servicesTitle": "Womit dürfen wir starten?",
+    "servicesIntro": "Ein kurzes Gespräch hilft, deinen Wunsch und den passenden Termin zu klären."
   },
   "footer": {
     "kicker": "Kontakt",
-    "title": "Aktuelle Informationen direkt telefonisch erfragen.",
+    "title": "Persönlich besprechen, entspannt starten.",
     "ctaLabel": "Telefonisch kontaktieren",
     "copy": "Konkurrenz Hairdesign · Bürbacher Weg 86 · Siegen"
   },
   "legal": {
-    "taxId": "zur Freigabe",
-    "chamber": "zur Freigabe",
-    "professionalTitle": "zur Freigabe",
-    "disputeResolution": "Hinweise zur Streitbeilegung werden vor finaler Kundenübergabe mit dem rechtlichen Betreiber fachlich geprüft und ergänzt.",
-    "privacyContactCopy": "Die Datenschutzhinweise zur Kontaktaufnahme werden vor finaler Kundenübergabe anhand der tatsächlichen Kontaktwege rechtlich geprüft und ergänzt.",
-    "privacyHostingCopy": "Die Hosting- und Logdatenhinweise des Vercel-Drafts werden vor finaler Kundenübergabe fachlich geprüft und ergänzt.",
-    "privacyMapsCopy": "Die Kartenansicht wird erst nach einem bewussten Klick geladen. Der endgültige Datenschutzhinweis zu Google Maps wird vor finaler Kundenübergabe rechtlich geprüft und ergänzt."
+    "taxId": "",
+    "chamber": "",
+    "professionalTitle": "",
+    "disputeResolution": "Fragen zur Streitbeilegung können telefonisch beim Salon geklärt werden.",
+    "privacyContactCopy": "Für die Kontaktaufnahme steht die Telefonnummer 0271 2387718 zur Verfügung.",
+    "privacyHostingCopy": "Diese Website wird über Vercel bereitgestellt. Im technischen Betrieb können Server- und Zugriffslogs verarbeitet werden.",
+    "privacyMapsCopy": "Die Karte wird erst nach deinem Klick geladen. Erst dann wird eine Verbindung zu Google Maps aufgebaut."
   },
   "handover": {
     "claimsConfirmed": false,

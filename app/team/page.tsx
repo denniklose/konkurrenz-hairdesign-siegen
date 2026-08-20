@@ -51,8 +51,8 @@ export default function TeamPage() {
 
       <CallToAction
         kicker="Kontakt"
-        title="Aktuelle Informationen direkt telefonisch erfragen."
-        copy="Informationen zu Terminen und Angeboten werden direkt vom Salon bestätigt."
+        title="Lust auf einen neuen Look?"
+        copy="Ruf kurz an und besprich deinen Terminwunsch direkt mit dem Salon."
         secondaryHref="/oeffnungszeiten"
         secondaryLabel="Öffnungszeiten & Kontakt"
       />
