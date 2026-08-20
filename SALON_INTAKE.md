@@ -20,7 +20,7 @@ Stand: 20.08.2026. Details, Quellen und Vertrauensstufen stehen in [RESEARCH_LED
 
 - Kurzer Hero-Satz: Faktischer Standort-Hinweis verwendet — **bestätigt**
 - Leistungen: Neutrale Beschreibung zu Beratung, Schnitt, Styling und Finish; keine Preise oder besonderen Spezialisierungen behauptet
-- Öffnungszeiten: Keine belastbaren Zeiten gefunden; V2 verweist neutral auf telefonische Bestätigung — **zur Freigabe**
+- Öffnungszeiten: Montag und Sonntag geschlossen; Dienstag bis Freitag 09:00–18:00; Samstag 09:00–14:00 — laut [Google-Unternehmensprofil](https://www.google.com/maps/place/Konkurrenz+Hairdesign/@50.8800945,8.0415949,17.07z/data=!4m6!3m5!1s0x47bc1c9fa1535099:0xced48d47bb185125!8m2!3d50.8800628!4d8.0416659!16s%2Fg%2F1tgc8mvk?authuser=0&hl=de&entry=ttu) am 20.08.2026 geprüft; finale Salonfreigabe und Feiertagsabweichungen **zur Freigabe**
 - Teamnamen und Rollen: Keine eindeutig bestätigten Namen; V2 verwendet eine neutrale Team- und Beratungsbeschreibung — **zur Freigabe**
 - Geschichte des Salons: Keine bestätigten historischen Fakten; V2 verwendet eine allgemeine Beschreibung des Salonbesuchs — **zur Freigabe**
 - Marken oder Produkte: Keine bestätigten Angaben — **zur Freigabe**
@@ -46,7 +46,7 @@ Stand: 20.08.2026. Details, Quellen und Vertrauensstufen stehen in [RESEARCH_LED
 
 ## 5. Freigabe
 
-- Alle Claims, Öffnungszeiten, Preise und Leistungen bestätigt: **nein, zur Freigabe**
+- Alle Claims, Preise und Leistungen bestätigt: **nein, zur Freigabe**; Öffnungszeiten stammen aus dem Google-Unternehmensprofil, finale Salonbestätigung steht aus
 - Alle Bilder und Logos freigegeben: **nein, zur Freigabe**
 - GitHub, Vercel, Domain und Billing für Kundenübergabe dokumentiert: GitHub und Vercel-Draft erledigt; Domain, Billing und Kundenübergabe **zur Freigabe**
 - Ansprechpartner für finale Freigabe: **zur Freigabe**

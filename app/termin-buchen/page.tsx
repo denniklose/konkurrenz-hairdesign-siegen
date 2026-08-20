@@ -43,7 +43,7 @@ export default function BookingPage() {
           </a>
         </article>
 
-        <HoursCard className="booking-hours-card" title="Zeiten telefonisch abstimmen." />
+        <HoursCard className="booking-hours-card" title="Aktuelle Öffnungszeiten." />
         <ConsentMap />
       </section>
       <SiteFooter />

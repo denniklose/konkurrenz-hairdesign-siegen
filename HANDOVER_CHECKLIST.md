@@ -2,7 +2,7 @@
 
 ## Aktueller Status – 20.08.2026
 
-**Öffentlicher Vercel-Draft V2, keine Kundenübergabe:** Die ausdrücklich beauftragte URL ist https://konkurrenz-hairdesign-siegen2.vercel.app/. Die bisherige URL https://konkurrenz-hairdesign-siegen.vercel.app/ bleibt unverändert. Pflichtdaten für Betreiber, E-Mail, Rechtsdaten, Öffnungszeiten, finale Assetfreigabe sowie Domain/Billing liegen noch nicht vollständig vor. Die Website bleibt deshalb ein klar gekennzeichneter Kundenentwurf mit `handoverStatus: draft`.
+**Öffentlicher Vercel-Draft V2, keine Kundenübergabe:** Die ausdrücklich beauftragte URL ist https://konkurrenz-hairdesign-siegen2.vercel.app/. Die bisherige URL https://konkurrenz-hairdesign-siegen.vercel.app/ bleibt unverändert. Pflichtdaten für Betreiber, E-Mail, Rechtsdaten, finale Kundenbestätigung der Google-Profil-Öffnungszeiten, Assetfreigabe sowie Domain/Billing liegen noch nicht vollständig vor. Die Website bleibt deshalb ein klar gekennzeichneter Kundenentwurf mit `handoverStatus: draft`.
 
 ## Inhalt und Marke
 

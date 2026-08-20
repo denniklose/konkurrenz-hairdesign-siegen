@@ -170,9 +170,15 @@
     }
   ],
   "hours": [
-    ["Aktuelle Zeiten", "Telefonisch erfragen"]
+    ["Montag", "Geschlossen"],
+    ["Dienstag", "09:00–18:00"],
+    ["Mittwoch", "09:00–18:00"],
+    ["Donnerstag", "09:00–18:00"],
+    ["Freitag", "09:00–18:00"],
+    ["Samstag", "09:00–14:00"],
+    ["Sonntag", "Geschlossen"]
   ],
-  "hoursNote": "Bitte die tagesaktuellen Öffnungszeiten und die Terminlage kurz telefonisch unter 0271 2387718 bestätigen.",
+  "hoursNote": "Öffnungszeiten laut Google-Unternehmensprofil. Feiertage und kurzfristige Änderungen können abweichen.",
   "salonPage": {
     "hero": {
       "eyebrow": "Der Salon",

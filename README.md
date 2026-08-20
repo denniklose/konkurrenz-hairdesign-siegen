@@ -4,14 +4,14 @@ Private Next.js-Website für Konkurrenz Hairdesign in Siegen. Das Dark-Bento-Des
 
 ## Status
 
-**Öffentlicher Vercel-Draft, keine Kundenübergabe.** Diese V2 läuft separat unter [konkurrenz-hairdesign-siegen2.vercel.app](https://konkurrenz-hairdesign-siegen2.vercel.app/). Die bisherige URL [konkurrenz-hairdesign-siegen.vercel.app](https://konkurrenz-hairdesign-siegen.vercel.app/) bleibt unverändert. Der Handover-Status bleibt `draft`; rechtlicher Betreiber, E-Mail, Rechtsdaten, Öffnungszeiten, finale Assetfreigaben sowie Domain/Billing stehen noch **zur Freigabe**.
+**Öffentlicher Vercel-Draft, keine Kundenübergabe.** Diese V2 läuft separat unter [konkurrenz-hairdesign-siegen2.vercel.app](https://konkurrenz-hairdesign-siegen2.vercel.app/). Die bisherige URL [konkurrenz-hairdesign-siegen.vercel.app](https://konkurrenz-hairdesign-siegen.vercel.app/) bleibt unverändert. Der Handover-Status bleibt `draft`; rechtlicher Betreiber, E-Mail, Rechtsdaten, finale Kundenbestätigung der Öffnungszeiten, Assetfreigaben sowie Domain/Billing stehen noch **zur Freigabe**.
 
 ## Verifizierte Basisdaten
 
 - Konkurrenz Hairdesign, Friseur in Siegen
 - Bürbacher Weg 86, 57074 Siegen
 - Telefon: 0271 2387718 (mehrfach passende öffentliche Verzeichnisse; finale Salonfreigabe ausstehend)
-- Inhalt: Neutrale Texte zu Beratung, Schnitt, Styling und Finish; keine erfundenen Preise, Bewertungen, Teamnamen oder Öffnungszeiten
+- Inhalt: Neutrale Texte zu Beratung, Schnitt, Styling und Finish; aktuelle Öffnungszeiten aus dem geprüften Google-Unternehmensprofil; keine erfundenen Preise, Bewertungen oder Teamnamen
 - Karte: click-to-load; keine Google-Maps-Einbettung vor bewusstem Klick
 
 Alle Quellen, Konflikte und Nicht-Veröffentlichungsentscheidungen stehen in [RESEARCH_LEDGER.md](./RESEARCH_LEDGER.md). Der aktuelle Intake mit offenen Freigaben steht in [SALON_INTAKE.md](./SALON_INTAKE.md).
