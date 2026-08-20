@@ -25,8 +25,8 @@ Die maschinenlesbare Liste in `config/asset-manifest.json` ist maßgeblich. Alle
 
 | Asset | Quelle | Lizenz/Nutzung | Alt-Text | Freigabestatus |
 | --- | --- | --- | --- | --- |
-| `/images/konkurrenz-mark.svg` | Originales Vektorzeichen im Kundenrepository | Projektinternes Originalasset | Abstraktes K-Zeichen für Konkurrenz Hairdesign | zur Freigabe |
-| `/favicon.svg` | Originales Vektorzeichen im Kundenrepository | Projektinternes Originalasset | Abstraktes K-Zeichen als Favicon für Konkurrenz Hairdesign | zur Freigabe |
+| `/images/konkurrenz-mark.svg` | Originales Vektorzeichen im Kundenrepository | Projektinternes Originalasset, transparentes Monogramm ohne Rahmen | Fließendes K-Monogramm für Konkurrenz Hairdesign | zur Freigabe |
+| `/favicon.svg` | Originales Vektorzeichen im Kundenrepository | Projektinternes Originalasset, transparentes Monogramm ohne Rahmen | Fließendes K-Monogramm als Favicon für Konkurrenz Hairdesign | zur Freigabe |
 | `/images/konkurrenz-hair-woman.png` | Original KI-generiert mit OpenAI Image Generation am 20.08.2026 | Früheres Bild, nicht mehr auf der Startseite aktiv; keine echte Salonarbeit | KI-generiertes Portrait einer Frau mit mittellangem, weich gestuftem Haarschnitt | zur Freigabe |
 | `/images/konkurrenz-hair-woman-back.png` | Original KI-generiert mit OpenAI Image Generation am 20.08.2026 | Nur als generische Salonbildwelt, keine echte Salonarbeit; Rückansicht ohne Gesicht | KI-generierte Rückansicht einer Frau mit mittellangem, weich gestuftem Haarschnitt | zur Freigabe |
 | `/images/konkurrenz-hair-man.png` | Original KI-generiert mit OpenAI Image Generation am 20.08.2026 | Nur als generische Salonbildwelt, keine echte Salonarbeit | KI-generiertes Portrait eines Mannes mit strukturiertem Kurzhaarschnitt | zur Freigabe |

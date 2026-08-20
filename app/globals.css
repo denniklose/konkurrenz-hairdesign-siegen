@@ -233,9 +233,9 @@ main,
   height: 44px;
   flex: 0 0 44px;
   place-items: center;
-  border-radius: 13px;
-  background: var(--accent);
-  color: var(--accent-ink);
+  border-radius: 0;
+  background: transparent;
+  color: var(--accent);
   font-size: 15px;
   font-weight: 700;
   letter-spacing: -0.04em;
@@ -245,7 +245,7 @@ main,
 .phone-card-mark img,
 .address-mark img {
   object-fit: contain;
-  padding: 7px;
+  padding: 0;
 }
 
 .wordmark-copy {
@@ -505,8 +505,8 @@ main,
   width: 48px;
   height: 48px;
   place-items: center;
-  border: 1px solid rgba(5, 6, 6, 0.32);
-  border-radius: 15px;
+  border: 0;
+  border-radius: 0;
   font-size: 13px;
   font-weight: 700;
 }
@@ -1135,9 +1135,8 @@ main,
 
 .address-mark {
   margin-bottom: 58px;
-  border-color: var(--line-strong);
-  background: var(--accent);
-  color: var(--accent-ink);
+  background: transparent;
+  color: var(--accent);
 }
 
 .address-card h2 {
@@ -1664,7 +1663,7 @@ main,
     width: 40px;
     height: 40px;
     flex-basis: 40px;
-    border-radius: 12px;
+    border-radius: 0;
   }
 
   .wordmark-copy strong {
