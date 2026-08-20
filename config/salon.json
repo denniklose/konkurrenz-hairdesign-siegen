@@ -91,8 +91,8 @@
     "ctaLabel": "Telefonisch kontaktieren",
     "trustLine": "Beratung, Schnitt und Styling mit Blick auf das, was zu dir passt.",
     "primaryImage": {
-      "src": "/images/konkurrenz-hair-woman.png",
-      "alt": "KI-generiertes Portrait einer Frau mit mittellangem, weich gestuftem Haarschnitt",
+      "src": "/images/konkurrenz-hair-woman-back.png",
+      "alt": "KI-generierte Rückansicht einer Frau mit mittellangem, weich gestuftem Haarschnitt",
       "caption": "Mittellanger, weich gestufter Haarschnitt"
     },
     "secondaryImage": {
@@ -130,19 +130,19 @@
   ],
   "serviceImages": [
     {
-      "src": "/images/konkurrenz-hair-flow.png",
-      "alt": "Illustrative KI-generierte dunkle Haarfasern mit rotem Licht",
-      "caption": "Editoriale Haarfasern in warmem Rotlicht"
+      "src": "/images/konkurrenz-hair-style-waves.png",
+      "alt": "KI-generierte Rückansicht eines schulterlangen Haarschnitts mit weichen, hellen Wellen",
+      "caption": "Schulterlange Wellen"
     },
     {
-      "src": "/images/konkurrenz-hair-wave.png",
-      "alt": "Illustrative KI-generierte wellige dunkle Haarstruktur mit rotem Licht",
-      "caption": "Wellenstruktur als Editorialmotiv"
+      "src": "/images/konkurrenz-hair-style-bob.png",
+      "alt": "KI-generierte Rückansicht eines präzisen dunklen Bobs mit klarer Kante",
+      "caption": "Präziser Bob"
     },
     {
-      "src": "/images/konkurrenz-hair-texture.png",
-      "alt": "Illustrative KI-generierte kurze dunkle Haarstruktur mit rotem Licht",
-      "caption": "Dunkle Haartextur als Editorialmotiv"
+      "src": "/images/konkurrenz-hair-style-textured.png",
+      "alt": "KI-generierte Rückansicht eines texturierten Kurzhaarschnitts mit sauberem Nacken",
+      "caption": "Texturierter Kurzhaarschnitt"
     }
   ],
   "historySection": {

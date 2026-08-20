@@ -18,8 +18,16 @@
     },
     {
       "path": "/images/konkurrenz-hair-woman.png",
-      "purpose": "Hauptbild der Startseite",
+      "purpose": "Früheres Startseitenbild, nicht mehr aktiv",
       "alt": "KI-generiertes Portrait einer Frau mit mittellangem, weich gestuftem Haarschnitt",
+      "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; neutraler Salon-Editorial-Prompt",
+      "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
+      "approved": false
+    },
+    {
+      "path": "/images/konkurrenz-hair-woman-back.png",
+      "purpose": "Hauptbild der Startseite",
+      "alt": "KI-generierte Rückansicht einer Frau mit mittellangem, weich gestuftem Haarschnitt",
       "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; neutraler Salon-Editorial-Prompt",
       "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
       "approved": false
@@ -28,6 +36,30 @@
       "path": "/images/konkurrenz-hair-man.png",
       "purpose": "Nebenbild der Startseite",
       "alt": "KI-generiertes Portrait eines Mannes mit strukturiertem Kurzhaarschnitt",
+      "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; neutraler Salon-Editorial-Prompt",
+      "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
+      "approved": false
+    },
+    {
+      "path": "/images/konkurrenz-hair-style-waves.png",
+      "purpose": "Leistungsbild der Startseite",
+      "alt": "KI-generierte Rückansicht eines schulterlangen Haarschnitts mit weichen, hellen Wellen",
+      "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; neutraler Salon-Editorial-Prompt",
+      "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
+      "approved": false
+    },
+    {
+      "path": "/images/konkurrenz-hair-style-bob.png",
+      "purpose": "Leistungsbild der Startseite",
+      "alt": "KI-generierte Rückansicht eines präzisen dunklen Bobs mit klarer Kante",
+      "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; neutraler Salon-Editorial-Prompt",
+      "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
+      "approved": false
+    },
+    {
+      "path": "/images/konkurrenz-hair-style-textured.png",
+      "purpose": "Leistungsbild der Startseite",
+      "alt": "KI-generierte Rückansicht eines texturierten Kurzhaarschnitts mit sauberem Nacken",
       "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; neutraler Salon-Editorial-Prompt",
       "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
       "approved": false
