@@ -15,14 +15,14 @@ export default function OpeningHoursPage() {
       <SiteHeader inner />
       <InnerPageHero
         eyebrow="Öffnungszeiten & Kontakt"
-        title="Wann sind wir für dich da?"
-        intro={"Hier findest du Öffnungszeiten, Telefonnummer und den Weg zum Salon in " + site.address[0] + "."}
-        ctaLabel={site.phoneDisplay + " anrufen"}
+        title="Öffnungszeiten zur Freigabe."
+        intro={"Adresse und Telefonnummer sind bestätigt. Aktuelle Öffnungszeiten bitte direkt beim Salon erfragen: " + site.address[0] + "."}
+        ctaLabel="Telefonisch kontaktieren"
         ctaHref={site.phoneHref}
       />
 
       <section className="page-section section-shell contact-page-bento" aria-labelledby="hours-title">
-        <HoursCard className="contact-hours-large" title="Wann wir für dich da sind." />
+        <HoursCard className="contact-hours-large" title="Öffnungszeiten zur Freigabe." />
         <ContactCard />
         <ConsentMap />
       </section>

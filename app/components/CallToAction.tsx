@@ -26,7 +26,7 @@ export default function CallToAction({
       <p>{copy}</p>
       <div className="page-cta-actions">
         <a className="button button-primary" href={site.phoneHref}>
-          Termin telefonisch vereinbaren
+          Telefonisch kontaktieren
         </a>
         {secondaryHref && secondaryLabel ? (
           <Link className="button button-secondary" href={secondaryHref}>

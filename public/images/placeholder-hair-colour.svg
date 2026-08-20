@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Abstrakter Bildplatzhalter für Farbergebnis">
   <defs>
-    <radialGradient id="bg" cx=".34" cy=".2"><stop stop-color="#536b9a"/><stop offset=".5" stop-color="#182033"/><stop offset="1" stop-color="#090a0e"/></radialGradient>
+    <radialGradient id="bg" cx=".34" cy=".2"><stop stop-color="#e05a5a"/><stop offset=".5" stop-color="#351217"/><stop offset="1" stop-color="#090a0e"/></radialGradient>
     <linearGradient id="strand" x1="0" x2="1"><stop stop-color="#d9b98f"/><stop offset=".5" stop-color="#7e563f"/><stop offset="1" stop-color="#c29c74"/></linearGradient>
   </defs>
   <rect width="1200" height="900" fill="url(#bg)"/>

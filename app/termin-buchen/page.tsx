@@ -24,7 +24,7 @@ export default function BookingPage() {
 
       <section className="page-section section-shell booking-facts-bento" aria-labelledby="booking-facts-title">
         <article className="bento-card booking-services-card">
-          <p className="section-kicker">Leistungen</p>
+          <p className="section-kicker">Aktueller Stand</p>
           <h2 id="booking-facts-title">{page.servicesTitle}</h2>
           <p className="booking-intro">{page.servicesIntro}</p>
           <div className="booking-service-list">
@@ -39,11 +39,11 @@ export default function BookingPage() {
             ))}
           </div>
           <a className="button button-primary" href={site.phoneHref}>
-            {site.phoneDisplay} anrufen
+            Telefonisch kontaktieren
           </a>
         </article>
 
-        <HoursCard className="booking-hours-card" title="Wann wir für dich da sind." />
+        <HoursCard className="booking-hours-card" title="Öffnungszeiten zur Freigabe." />
         <ConsentMap />
       </section>
       <SiteFooter />

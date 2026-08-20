@@ -6,7 +6,7 @@ import { pageMetadata } from "../seo";
 export const metadata = pageMetadata("imprint");
 
 export default function ImprintPage() {
-  const isTemplate = salon.template.isStarter;
+  const needsReview = salon.template.isStarter || salon.template.handoverStatus !== "ready";
 
   return (
     <main className="inner-page">
@@ -14,11 +14,11 @@ export default function ImprintPage() {
       <section className="legal-page-content">
         <p className="section-kicker">Rechtstexte</p>
         <h1>Impressum</h1>
-        {isTemplate ? (
+        {needsReview ? (
           <aside className="template-notice">
-            Diese Vorlage darf erst veröffentlicht werden, nachdem alle Betreiber-
-            und Rechtsdaten durch den Kunden und gegebenenfalls rechtlich geprüft
-            wurden.
+            Dieser Kundenentwurf darf nicht veröffentlicht werden. Betreiber-,
+            Kontakt- und Rechtsdaten stehen noch zur Freigabe und müssen fachlich
+            geprüft ergänzt werden.
           </aside>
         ) : null}
         <h2>Angaben gemäß § 5 DDG</h2>

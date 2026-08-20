@@ -1,38 +1,39 @@
-# Friseursalon Starter
+# Konkurrenz Hairdesign · Kundenentwurf
 
-Private Next.js-Vorlage für deutsche Friseursalons. Das Dark-Bento-Design, die Helvetica-Typografie, der Aufbau der Seiten und die Kontaktlogik bleiben wiedererkennbar. Pro Kunde wechselst du ausschließlich Konfiguration, Bilder, Logo, Akzentfarbe und bestätigte Inhalte.
+Private Next.js-Website für Konkurrenz Hairdesign in Siegen. Das Dark-Bento-Design, die Helvetica-Typografie, Seitenstruktur, Navigation, CTA-Flüsse und das responsive Verhalten des freigegebenen Ausgangstemplates bleiben erhalten. Der Akzent ist auf `#e05a5a` umgestellt.
 
-## Nur ein Befehl für einen neuen Salon
+## Status
 
-Für einen neuen Kunden musst du nicht erst manuell ein Repository kopieren oder einen langen Auftrag schreiben. Kopiere einfach den fertigen [Ein-Befehl-Workflow](./NEUER_SALON_BEFEHL.md) in einen neuen Codex-Chat und ersetze Salonname, Ort sowie optional einen Quellenlink. Codex legt dann ein separates Kunden-Repository und — erst nach erfolgreicher Übergabeprüfung — ein neues Vercel-Projekt an.
+**Nicht veröffentlichen / nicht deployen.** Der Handover-Status ist `draft`. Rechtlicher Betreiber, E-Mail, Rechtsdaten, Öffnungszeiten, Leistungen, Teamdaten, finale Assetfreigaben sowie Vercel/Domain/Billing stehen noch **zur Freigabe**.
 
-## Neuer Salon in fünf Schritten
+## Verifizierte Basisdaten
 
-1. Erstelle aus diesem privaten Repository ein neues Kunden-Repository.
-2. Fülle SALON_INTAKE.md mit öffentlich recherchierten und vom Salon bestätigten Fakten.
-3. Ersetze config/salon.json, Bilder unter public/images und config/asset-manifest.json.
-4. Führe npm ci, npm run check:template, npm run lint, npx tsc --noEmit und npm run build aus.
-5. Erst wenn npm run check:handover erfolgreich ist, ein neues Vercel-Projekt für diesen Kunden erstellen und deployen.
+- Konkurrenz Hairdesign, Friseur in Siegen
+- Bürbacher Weg 86, 57074 Siegen
+- Telefon: 0271 2387718 (mehrfach passende öffentliche Verzeichnisse; finale Salonfreigabe ausstehend)
+- Karte: click-to-load; keine Google-Maps-Einbettung vor bewusstem Klick
 
-## Wichtigste Dateien
+Alle Quellen, Konflikte und Nicht-Veröffentlichungsentscheidungen stehen in [RESEARCH_LEDGER.md](./RESEARCH_LEDGER.md). Der aktuelle Intake mit offenen Freigaben steht in [SALON_INTAKE.md](./SALON_INTAKE.md).
+
+## Qualitätssicherung
+
+```bash
+npm ci
+npm run check:template
+npm run lint
+npx tsc --noEmit
+npm run build
+npm run check:handover
+```
+
+`npm run check` ist ein Alias für `npm run check:handover`. Es muss bis zur vollständigen Kundenfreigabe erwartungsgemäß fehlschlagen.
+
+## Relevante Dateien
 
 | Datei | Zweck |
-|---|---|
-| config/salon.json | Zentraler Inhalt, Design, SEO, Kartenmodus und Legal-Felder |
-| config/asset-manifest.json | Quelle, Lizenz, Alttext und Kundenfreigabe aller Bilder/Logos |
-| SALON_INTAKE.md | Kundendaten und offene Fakten |
-| CODEX_PROMPT.md | Standardauftrag für Codex beim Erstellen eines Kundenprojekts |
-| HANDOVER_CHECKLIST.md | Technische, inhaltliche, rechtliche und Eigentumsfreigabe |
-| app/components | Wiederverwendbare Designbausteine |
-
-## Kartenstandard
-
-Google Maps wird standardmäßig erst nach einem bewussten Klick geladen. Adresse und Routenlink sind sofort sichtbar. Wenn ein Kunde keine eingebettete Karte möchte, setze map.mode auf link-only.
-
-## Sicherheit vor Übergabe
-
-Die Vorlage ist absichtlich mit neutralen Platzhaltern markiert. npm run check:handover schlägt fehl, bis reale Kundendaten, Rechtefreigaben und Handover-Bestätigungen eingetragen sind. Das verhindert, dass eine Musterseite versehentlich als Kundenwebsite veröffentlicht wird.
-
-## Nicht direkt deployen
-
-Dieses Repository ist ein Starter, keine fertige Salon-Website. Jede Kundenwebsite erhält ein neues Repository, ein neues Vercel-Projekt und eine eigene Domain oder Vercel-URL.
+| --- | --- |
+| `config/salon.json` | Zentraler Inhalt, Design, SEO, Kartenmodus und Handover-Status |
+| `config/asset-manifest.json` | Quelle, Lizenz, Alt-Text und Freigabestatus aller aktiven Assets |
+| `SALON_INTAKE.md` | Bestätigte Daten und offene Freigaben |
+| `RESEARCH_LEDGER.md` | Öffentliche Quellen, Vertrauensstufen und Ausschlüsse |
+| `HANDOVER_CHECKLIST.md` | Übergabe- und Deployment-Sperren |

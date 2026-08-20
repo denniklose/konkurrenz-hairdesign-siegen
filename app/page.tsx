@@ -25,10 +25,13 @@ const salonSchema = {
   url: site.websiteUrl
 };
 
+const shouldPublishSchema =
+  !salon.template.isStarter && salon.template.handoverStatus === "ready";
+
 export default function Home() {
   return (
     <main id="top">
-      {!salon.template.isStarter ? (
+      {shouldPublishSchema ? (
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(salonSchema) }}
@@ -75,9 +78,9 @@ export default function Home() {
           <a className="bento-card phone-card" href={site.phoneHref}>
             <BrandMark className="phone-card-mark" />
             <span className="phone-card-copy">
-              Für Schnitt, Farbe oder Pflege erreichst du uns direkt.
+              Für aktuelle Informationen erreichst du uns telefonisch.
             </span>
-            <small>Termin vereinbaren</small>
+            <small>Kontakt aufnehmen</small>
             <strong>{site.phoneDisplay}</strong>
           </a>
         </div>
@@ -149,7 +152,7 @@ export default function Home() {
         <div className="section-heading">
           <div>
             <p className="section-kicker">Öffnungszeiten &amp; Anfahrt</p>
-            <h2 id="contact-title">In {site.address[1]} für dich da.</h2>
+            <h2 id="contact-title">Konkurrenz Hairdesign in {site.address[1]}.</h2>
           </div>
           <p>{site.address.join(" · ")} · Telefon {site.phoneDisplay}</p>
         </div>

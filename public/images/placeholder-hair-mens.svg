@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" role="img" aria-label="Abstrakter Bildplatzhalter für Männerhaarschnitt">
   <defs>
-    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0b0d12"/><stop offset="1" stop-color="#29364d"/></linearGradient>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0b0d12"/><stop offset="1" stop-color="#4a1b21"/></linearGradient>
     <linearGradient id="cut" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#a88968"/><stop offset="1" stop-color="#3a2b25"/></linearGradient>
   </defs>
   <rect width="1000" height="1200" fill="url(#bg)"/>

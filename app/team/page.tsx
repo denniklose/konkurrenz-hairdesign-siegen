@@ -50,9 +50,9 @@ export default function TeamPage() {
       </section>
 
       <CallToAction
-        kicker="Dein Termin"
-        title="Ruf an und sag uns kurz, was du dir wünschst."
-        copy="Für deinen Wunsch findest du gemeinsam mit dem Salon den passenden nächsten Schritt."
+        kicker="Kontakt"
+        title="Aktuelle Informationen direkt telefonisch erfragen."
+        copy="Informationen zu Terminen und Angeboten werden direkt vom Salon bestätigt."
         secondaryHref="/oeffnungszeiten"
         secondaryLabel="Öffnungszeiten & Kontakt"
       />

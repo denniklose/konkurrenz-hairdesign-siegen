@@ -1,5 +1,5 @@
 {
-  "name": "friseur-salon-starter",
+  "name": "konkurrenz-hairdesign-siegen",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -10,6 +10,7 @@
     "build": "next build --webpack",
     "start": "next start",
     "lint": "eslint . --ignore-pattern .next --ignore-pattern .vercel",
+    "check": "npm run check:handover",
     "check:handover": "node scripts/check-handover.mjs",
     "check:template": "node scripts/check-handover.mjs --template"
   },
@@ -29,5 +30,5 @@
     "typescript": "5.9.3"
   },
   "type": "module",
-  "displayName": "Friseursalon Starter"
+  "displayName": "Konkurrenz Hairdesign · Kundenentwurf"
 }

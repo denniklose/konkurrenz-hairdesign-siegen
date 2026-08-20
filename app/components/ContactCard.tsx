@@ -11,12 +11,9 @@ export default function ContactCard() {
         <br />
         {site.address[1]}
       </h2>
-      <p>
-        Für Terminwünsche und Fragen erreichst du den Salon am schnellsten
-        telefonisch.
-      </p>
+      <p>Für aktuelle Informationen erreichst du den Salon telefonisch.</p>
       <a className="button button-primary" href={site.phoneHref}>
-        {site.phoneDisplay} anrufen
+        Telefonisch kontaktieren
       </a>
     </article>
   );

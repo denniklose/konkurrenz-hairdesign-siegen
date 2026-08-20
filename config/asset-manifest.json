@@ -1,43 +1,51 @@
 {
   "assets": [
     {
-      "path": "/images/brand-mark.svg",
-      "purpose": "Beispiel-Logo",
-      "alt": "Beispielzeichen für die Vorlage",
-      "source": "Im Starter-Repository erzeugtes neutrales Vektorzeichen",
-      "license": "Starter-Asset; vor Kundenübergabe durch Kundenlogo ersetzen",
+      "path": "/images/konkurrenz-mark.svg",
+      "purpose": "Kundenentwurf-Logo in Header, Footer und Kontaktkarten",
+      "alt": "Abstraktes K-Zeichen für Konkurrenz Hairdesign",
+      "source": "Originales Vektorzeichen, für diesen Kundenentwurf am 2026-08-20 im Repository erstellt",
+      "license": "Projektinternes Originalasset; finale Marken- und Kundennutzungsfreigabe steht aus",
       "approved": false
     },
     {
-      "path": "/images/placeholder-hair-hero.svg",
-      "purpose": "Hero-Platzhalter",
-      "alt": "Platzhalter für ein lizenziertes Haarbild",
-      "source": "Im Starter-Repository erzeugtes abstraktes Vektorbild",
-      "license": "Starter-Asset; vor Kundenübergabe durch freigegebenes Bild ersetzen",
+      "path": "/favicon.svg",
+      "purpose": "Browser-Favicon des Kundenentwurfs",
+      "alt": "Abstraktes K-Zeichen als Favicon für Konkurrenz Hairdesign",
+      "source": "Originales Vektorzeichen, für diesen Kundenentwurf am 2026-08-20 im Repository erstellt",
+      "license": "Projektinternes Originalasset; finale Marken- und Kundennutzungsfreigabe steht aus",
       "approved": false
     },
     {
-      "path": "/images/placeholder-hair-mens.svg",
-      "purpose": "Männerhaarschnitt-Platzhalter",
-      "alt": "Platzhalter für ein lizenziertes Männerhaarschnittbild",
-      "source": "Im Starter-Repository erzeugtes abstraktes Vektorbild",
-      "license": "Starter-Asset; vor Kundenübergabe durch freigegebenes Bild ersetzen",
+      "path": "/images/konkurrenz-hair-hero.png",
+      "purpose": "Hero, Über-uns-Seite und illustrative Haarbildfläche",
+      "alt": "Illustrative KI-generierte dunkle Haarstruktur mit rotem Studiolicht",
+      "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; Prompt und Prüfung im Arbeitsprotokoll dokumentiert",
+      "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
       "approved": false
     },
     {
-      "path": "/images/placeholder-hair-colour.svg",
-      "purpose": "Farblook-Platzhalter",
-      "alt": "Platzhalter für ein lizenziertes Farbergebnis",
-      "source": "Im Starter-Repository erzeugtes abstraktes Vektorbild",
-      "license": "Starter-Asset; vor Kundenübergabe durch freigegebenes Bild ersetzen",
+      "path": "/images/konkurrenz-hair-texture.png",
+      "purpose": "Hero-Nebenkarte und illustrative Detailbildfläche",
+      "alt": "Illustrative KI-generierte kurze dunkle Haarstruktur mit rotem Licht",
+      "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; Prompt und Prüfung im Arbeitsprotokoll dokumentiert",
+      "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
       "approved": false
     },
     {
-      "path": "/images/placeholder-hair-texture.svg",
-      "purpose": "Textur-Platzhalter",
-      "alt": "Platzhalter für ein lizenziertes Haarbild",
-      "source": "Im Starter-Repository erzeugtes abstraktes Vektorbild",
-      "license": "Starter-Asset; vor Kundenübergabe durch freigegebenes Bild ersetzen",
+      "path": "/images/konkurrenz-hair-flow.png",
+      "purpose": "Leistungs-, Team- und illustrative Detailbildflächen",
+      "alt": "Illustrative KI-generierte dunkle Haarfasern mit rotem Licht",
+      "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; Prompt und Prüfung im Arbeitsprotokoll dokumentiert",
+      "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
+      "approved": false
+    },
+    {
+      "path": "/images/konkurrenz-hair-wave.png",
+      "purpose": "Salon- und Leistungsbildflächen",
+      "alt": "Illustrative KI-generierte wellige dunkle Haarstruktur mit rotem Licht",
+      "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; Prompt und Prüfung im Arbeitsprotokoll dokumentiert",
+      "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
       "approved": false
     }
   ]

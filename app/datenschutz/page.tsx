@@ -6,7 +6,7 @@ import { pageMetadata } from "../seo";
 export const metadata = pageMetadata("privacy");
 
 export default function PrivacyPage() {
-  const isTemplate = salon.template.isStarter;
+  const needsReview = salon.template.isStarter || salon.template.handoverStatus !== "ready";
 
   return (
     <main className="inner-page">
@@ -14,9 +14,9 @@ export default function PrivacyPage() {
       <section className="legal-page-content">
         <p className="section-kicker">Rechtstexte</p>
         <h1>Datenschutz</h1>
-        {isTemplate ? (
+        {needsReview ? (
           <aside className="template-notice">
-            Dies ist eine technische Vorlage, keine fertige Datenschutzerklärung.
+            Dies ist ein Kundenentwurf, keine fertige Datenschutzerklärung.
             Vor Veröffentlichung muss der Text an Betreiber, Hosting, Kartenmodus
             und tatsächliche Datenflüsse angepasst und fachlich geprüft werden.
           </aside>

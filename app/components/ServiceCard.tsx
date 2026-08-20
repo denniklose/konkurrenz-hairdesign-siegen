@@ -12,8 +12,8 @@ export default function ServiceCard({ label, title, copy }: ServiceCardProps) {
       <span className="service-label">{label}</span>
       <h3>{title}</h3>
       <p>{copy}</p>
-      <Link href="/termin-buchen" aria-label={"Mehr über " + title + " und Termine erfahren"}>
-        Leistungen &amp; Termin <span aria-hidden="true">→</span>
+      <Link href="/termin-buchen" aria-label={"Mehr über " + title + " und den Kontakt erfahren"}>
+        Zum Kontakt <span aria-hidden="true">→</span>
       </Link>
     </article>
   );

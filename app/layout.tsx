@@ -3,13 +3,15 @@ import type { CSSProperties } from "react";
 import "./globals.css";
 import { salon } from "./site-data";
 
+const isPublic = !salon.template.isStarter && salon.template.handoverStatus === "ready";
+
 export const metadata: Metadata = {
   metadataBase: new URL(salon.identity.websiteUrl),
   applicationName: salon.identity.name,
   category: "Friseursalon",
   robots: {
-    index: !salon.template.isStarter,
-    follow: !salon.template.isStarter
+    index: isPublic,
+    follow: isPublic
   },
   icons: {
     icon: salon.design.favicon,
@@ -23,9 +25,9 @@ export const viewport: Viewport = {
 };
 
 const themeStyle = {
-  "--blue": salon.design.accent,
-  "--blue-bright": salon.design.accentBright,
-  "--blue-deep": salon.design.accentDeep
+  "--accent": salon.design.accent,
+  "--accent-bright": salon.design.accentBright,
+  "--accent-deep": salon.design.accentDeep
 } as CSSProperties;
 
 export default function RootLayout({
