@@ -21,12 +21,14 @@ Die maschinenlesbare Assetliste liegt in config/asset-manifest.json. Jede Bild- 
 
 ## Aktueller Kundenentwurf – Stand 20.08.2026
 
-Die maschinenlesbare Liste in `config/asset-manifest.json` ist maßgeblich. Alle hier aufgeführten Bildflächen sind generisch, KI-generiert oder originale Vektorarbeit; sie zeigen keine echte Salonarbeit und keine identifizierbaren Personen.
+Die maschinenlesbare Liste in `config/asset-manifest.json` ist maßgeblich. Alle hier aufgeführten Bildflächen sind generisch, KI-generiert oder originale Vektorarbeit; sie zeigen keine echte Salonarbeit und keine realen, identifizierbaren Personen.
 
 | Asset | Quelle | Lizenz/Nutzung | Alt-Text | Freigabestatus |
 | --- | --- | --- | --- | --- |
 | `/images/konkurrenz-mark.svg` | Originales Vektorzeichen im Kundenrepository | Projektinternes Originalasset | Abstraktes K-Zeichen für Konkurrenz Hairdesign | zur Freigabe |
 | `/favicon.svg` | Originales Vektorzeichen im Kundenrepository | Projektinternes Originalasset | Abstraktes K-Zeichen als Favicon für Konkurrenz Hairdesign | zur Freigabe |
+| `/images/konkurrenz-hair-woman.png` | Original KI-generiert mit OpenAI Image Generation am 20.08.2026 | Nur als generische Salonbildwelt, keine echte Salonarbeit | KI-generiertes Portrait einer Frau mit mittellangem, weich gestuftem Haarschnitt | zur Freigabe |
+| `/images/konkurrenz-hair-man.png` | Original KI-generiert mit OpenAI Image Generation am 20.08.2026 | Nur als generische Salonbildwelt, keine echte Salonarbeit | KI-generiertes Portrait eines Mannes mit strukturiertem Kurzhaarschnitt | zur Freigabe |
 | `/images/konkurrenz-hair-hero.png` | Original KI-generiert mit OpenAI Image Generation am 20.08.2026 | Nur als illustrative Bildwelt, keine echte Salonarbeit | Illustrative KI-generierte dunkle Haarstruktur mit rotem Studiolicht | zur Freigabe |
 | `/images/konkurrenz-hair-texture.png` | Original KI-generiert mit OpenAI Image Generation am 20.08.2026 | Nur als illustrative Bildwelt, keine echte Salonarbeit | Illustrative KI-generierte kurze dunkle Haarstruktur mit rotem Licht | zur Freigabe |
 | `/images/konkurrenz-hair-flow.png` | Original KI-generiert mit OpenAI Image Generation am 20.08.2026 | Nur als illustrative Bildwelt, keine echte Salonarbeit | Illustrative KI-generierte dunkle Haarfasern mit rotem Licht | zur Freigabe |

@@ -17,6 +17,22 @@
       "approved": false
     },
     {
+      "path": "/images/konkurrenz-hair-woman.png",
+      "purpose": "Hauptbild der Startseite",
+      "alt": "KI-generiertes Portrait einer Frau mit mittellangem, weich gestuftem Haarschnitt",
+      "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; neutraler Salon-Editorial-Prompt",
+      "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
+      "approved": false
+    },
+    {
+      "path": "/images/konkurrenz-hair-man.png",
+      "purpose": "Nebenbild der Startseite",
+      "alt": "KI-generiertes Portrait eines Mannes mit strukturiertem Kurzhaarschnitt",
+      "source": "Original KI-generiert mit OpenAI Image Generation am 2026-08-20; neutraler Salon-Editorial-Prompt",
+      "license": "Originale KI-Bildwelt für diesen Kundenentwurf; keine reale Salonarbeit; finale Kundenfreigabe steht aus",
+      "approved": false
+    },
+    {
       "path": "/images/konkurrenz-hair-hero.png",
       "purpose": "Hero, Über-uns-Seite und illustrative Haarbildfläche",
       "alt": "Illustrative KI-generierte dunkle Haarstruktur mit rotem Studiolicht",

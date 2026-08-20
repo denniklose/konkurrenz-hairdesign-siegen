@@ -91,14 +91,14 @@
     "ctaLabel": "Telefonisch kontaktieren",
     "trustLine": "Beratung, Schnitt und Styling mit Blick auf das, was zu dir passt.",
     "primaryImage": {
-      "src": "/images/konkurrenz-hair-hero.png",
-      "alt": "Illustrative KI-generierte dunkle Haarstruktur mit rotem Studiolicht",
-      "caption": "Editoriale Haartextur in warmem Rotlicht"
+      "src": "/images/konkurrenz-hair-woman.png",
+      "alt": "KI-generiertes Portrait einer Frau mit mittellangem, weich gestuftem Haarschnitt",
+      "caption": "Mittellanger, weich gestufter Haarschnitt"
     },
     "secondaryImage": {
-      "src": "/images/konkurrenz-hair-texture.png",
-      "alt": "Illustrative KI-generierte kurze dunkle Haarstruktur mit rotem Licht",
-      "caption": "Detailaufnahme einer dunklen Haartextur"
+      "src": "/images/konkurrenz-hair-man.png",
+      "alt": "KI-generiertes Portrait eines Mannes mit strukturiertem Kurzhaarschnitt",
+      "caption": "Strukturierter Kurzhaarschnitt"
     }
   },
   "servicesSection": {
