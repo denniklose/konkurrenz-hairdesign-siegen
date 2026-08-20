@@ -2,6 +2,10 @@
 
 Private Next.js-Vorlage für deutsche Friseursalons. Das Dark-Bento-Design, die Helvetica-Typografie, der Aufbau der Seiten und die Kontaktlogik bleiben wiedererkennbar. Pro Kunde wechselst du ausschließlich Konfiguration, Bilder, Logo, Akzentfarbe und bestätigte Inhalte.
 
+## Nur ein Befehl für einen neuen Salon
+
+Für einen neuen Kunden musst du nicht erst manuell ein Repository kopieren oder einen langen Auftrag schreiben. Kopiere einfach den fertigen [Ein-Befehl-Workflow](./NEUER_SALON_BEFEHL.md) in einen neuen Codex-Chat und ersetze Salonname, Ort sowie optional einen Quellenlink. Codex legt dann ein separates Kunden-Repository und — erst nach erfolgreicher Übergabeprüfung — ein neues Vercel-Projekt an.
+
 ## Neuer Salon in fünf Schritten
 
 1. Erstelle aus diesem privaten Repository ein neues Kunden-Repository.
