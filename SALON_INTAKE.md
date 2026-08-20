@@ -14,7 +14,7 @@ Stand: 20.08.2026. Details, Quellen und Vertrauensstufen stehen in [RESEARCH_LED
 - Bestehende Website: Keine aktive, eindeutig verifizierbare Website gefunden. Die in Verzeichnissen genannte Domain `konkurrenz-hairdesign.de` war am 20.08.2026 nicht auflösbar — **zur Freigabe**
 - Google-Maps-Link: [übergebener Google-Maps-Ort](https://www.google.com/maps/place/Konkurrenz+Hairdesign/@50.8800945,8.0415949,17.07z/data=!4m6!3m5!1s0x47bc1c9fa1535099:0xced48d47bb185125!8m2!3d50.8800628!4d8.0416659!16s%2Fg%2F1tgc8mvk?authuser=0&hl=de&entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) — **bestätigt**
 - Domain: **zur Freigabe**
-- Vercel-/GitHub-Eigentümer: GitHub-Repository `denniklose/konkurrenz-hairdesign-siegen` ist privat angelegt; Vercel, Domain und Billing sind **zur Freigabe**
+- Vercel-/GitHub-Eigentümer: GitHub-Repository `denniklose/konkurrenz-hairdesign-siegen` ist privat angelegt. Der öffentliche Vercel-Draft läuft unter https://konkurrenz-hairdesign-siegen.vercel.app/; Domain, Billing und finale Kundenübergabe sind **zur Freigabe**
 
 ## 2. Inhalte
 
@@ -40,7 +40,7 @@ Stand: 20.08.2026. Details, Quellen und Vertrauensstufen stehen in [RESEARCH_LED
 
 - Kartenmodus: click-to-load — **umgesetzt**
 - Google Maps darf nach Klick geladen werden: Technisch umgesetzt; finale Rechts- und Salonfreigabe **zur Freigabe**
-- Hosting-Anbieter: Vercel erst nach positiver Handover-Prüfung — **zur Freigabe**
+- Hosting-Anbieter: Vercel-Draft ist erstellt; fachliche Prüfung der Hosting-/Logdaten sowie finale Kundenfreigabe stehen **zur Freigabe**
 - Datenschutztext fachlich geprüft: **nein, zur Freigabe**
 - Impressumsdaten fachlich geprüft: **nein, zur Freigabe**
 
@@ -48,6 +48,6 @@ Stand: 20.08.2026. Details, Quellen und Vertrauensstufen stehen in [RESEARCH_LED
 
 - Alle Claims, Öffnungszeiten, Preise und Leistungen bestätigt: **nein, zur Freigabe**
 - Alle Bilder und Logos freigegeben: **nein, zur Freigabe**
-- GitHub, Vercel, Domain und Billing für Kundenübergabe dokumentiert: GitHub erledigt; Vercel, Domain und Billing **zur Freigabe**
+- GitHub, Vercel, Domain und Billing für Kundenübergabe dokumentiert: GitHub und Vercel-Draft erledigt; Domain, Billing und Kundenübergabe **zur Freigabe**
 - Ansprechpartner für finale Freigabe: **zur Freigabe**
 - Datum: **zur Freigabe**

@@ -2,7 +2,7 @@
 
 ## Aktueller Status – 20.08.2026
 
-**Keine Kundenübergabe und kein Vercel-Deploy:** Die Pflichtdaten für Betreiber, E-Mail, Rechtsdaten, Öffnungszeiten, Leistungen, finale Assetfreigabe sowie Domain/Vercel/Billing liegen noch nicht vor. Die Website ist deshalb ein nicht öffentlicher Kundenentwurf mit `handoverStatus: draft`.
+**Öffentlicher Vercel-Draft, keine Kundenübergabe:** Die ausdrücklich beauftragte URL ist https://konkurrenz-hairdesign-siegen.vercel.app/. Pflichtdaten für Betreiber, E-Mail, Rechtsdaten, Öffnungszeiten, Leistungen, finale Assetfreigabe sowie Domain/Billing liegen noch nicht vollständig vor. Die Website bleibt deshalb ein klar gekennzeichneter Kundenentwurf mit `handoverStatus: draft`.
 
 ## Inhalt und Marke
 
@@ -27,5 +27,5 @@
 - [ ] npm run build erfolgreich
 - [ ] Desktop und Mobil geprüft; keine Console-Fehler oder horizontaler Overflow
 - [ ] Title, Description, Canonical, robots.txt und sitemap.xml je Route geprüft
-- [ ] Neues GitHub-Repository, neues Vercel-Projekt und neue Kunden-URL verwendet
+- [x] Neues GitHub-Repository, neues Vercel-Projekt und neue Kunden-URL verwendet
 - [ ] Domain, Vercel, GitHub und Billing-Zugänge dokumentiert oder übergeben

@@ -16,9 +16,9 @@ export default function ImprintPage() {
         <h1>Impressum</h1>
         {needsReview ? (
           <aside className="template-notice">
-            Dieser Kundenentwurf darf nicht veröffentlicht werden. Betreiber-,
-            Kontakt- und Rechtsdaten stehen noch zur Freigabe und müssen fachlich
-            geprüft ergänzt werden.
+            Dieser öffentlich erreichbare Kundenentwurf ist keine fertige
+            Rechtsseite. Betreiber-, Kontakt- und Rechtsdaten stehen noch zur
+            Freigabe und müssen vor der Kundenübergabe fachlich geprüft ergänzt werden.
           </aside>
         ) : null}
         <h2>Angaben gemäß § 5 DDG</h2>
@@ -37,13 +37,13 @@ export default function ImprintPage() {
         </p>
         <h2>Umsatzsteuer-ID</h2>
         <p className="legal-copy-block">
-          {salon.legal.taxId || "Vor Veröffentlichung mit dem Salon bestätigen."}
+          {salon.legal.taxId || "Vor der Kundenübergabe mit dem Salon bestätigen."}
         </p>
         <h2>Berufsangaben</h2>
         <p className="legal-copy-block">
-          {salon.legal.professionalTitle || "Vor Veröffentlichung mit dem Salon bestätigen."}
+          {salon.legal.professionalTitle || "Vor der Kundenübergabe mit dem Salon bestätigen."}
           <br />
-          {salon.legal.chamber || "Zuständige Kammer vor Veröffentlichung ergänzen."}
+          {salon.legal.chamber || "Zuständige Kammer vor der Kundenübergabe ergänzen."}
         </p>
         <h2>Streitbeilegung</h2>
         <p className="legal-copy-block">{salon.legal.disputeResolution}</p>

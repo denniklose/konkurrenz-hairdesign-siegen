@@ -4,7 +4,7 @@ Private Next.js-Website für Konkurrenz Hairdesign in Siegen. Das Dark-Bento-Des
 
 ## Status
 
-**Nicht veröffentlichen / nicht deployen.** Der Handover-Status ist `draft`. Rechtlicher Betreiber, E-Mail, Rechtsdaten, Öffnungszeiten, Leistungen, Teamdaten, finale Assetfreigaben sowie Vercel/Domain/Billing stehen noch **zur Freigabe**.
+**Öffentlicher Vercel-Draft, keine Kundenübergabe.** Die ausdrücklich beauftragte Produktions-URL ist [konkurrenz-hairdesign-siegen.vercel.app](https://konkurrenz-hairdesign-siegen.vercel.app/). Der Handover-Status bleibt `draft`; rechtlicher Betreiber, E-Mail, Rechtsdaten, Öffnungszeiten, Leistungen, Teamdaten, finale Assetfreigaben sowie Domain/Billing stehen noch **zur Freigabe**.
 
 ## Verifizierte Basisdaten
 

@@ -124,7 +124,7 @@
     },
     {
       "label": "Hinweis",
-      "title": "Vor Veröffentlichung",
+      "title": "Vor Kundenübergabe",
       "copy": "Leistungen, Preise, Team und Öffnungszeiten werden mit dem Salon abgestimmt."
     }
   ],
@@ -223,7 +223,7 @@
     "cta": {
       "kicker": "Kontakt",
       "title": "Aktuelle Informationen direkt beim Salon erfragen.",
-      "copy": "Die Website bleibt bis zur vollständigen Freigabe ein nicht veröffentlichter Kundenentwurf."
+      "copy": "Die Website bleibt bis zur vollständigen Freigabe ein klar gekennzeichneter Kundenentwurf ohne finale Kundenübergabe."
     }
   },
   "teamPage": {
@@ -272,7 +272,7 @@
     "cta": {
       "kicker": "Kontakt",
       "title": "Für aktuelle Informationen direkt anrufen.",
-      "copy": "Der Kundenentwurf bleibt bis zur vollständigen Freigabe nicht öffentlich."
+      "copy": "Der Kundenentwurf bleibt bis zur vollständigen Freigabe klar gekennzeichnet und ohne finale Kundenübergabe."
     }
   },
   "bookingPage": {
@@ -295,10 +295,10 @@
     "taxId": "zur Freigabe",
     "chamber": "zur Freigabe",
     "professionalTitle": "zur Freigabe",
-    "disputeResolution": "Hinweise zur Streitbeilegung werden vor Veröffentlichung mit dem rechtlichen Betreiber fachlich geprüft und ergänzt.",
-    "privacyContactCopy": "Die Datenschutzhinweise zur Kontaktaufnahme werden vor Veröffentlichung anhand der tatsächlichen Kontaktwege rechtlich geprüft und ergänzt.",
-    "privacyHostingCopy": "Die Hosting- und Logdatenhinweise werden erst nach dem finalen Hosting- und Vercel-Projekt fachlich geprüft ergänzt.",
-    "privacyMapsCopy": "Die Kartenansicht wird erst nach einem bewussten Klick geladen. Der endgültige Datenschutzhinweis zu Google Maps wird vor Veröffentlichung rechtlich geprüft ergänzt."
+    "disputeResolution": "Hinweise zur Streitbeilegung werden vor finaler Kundenübergabe mit dem rechtlichen Betreiber fachlich geprüft und ergänzt.",
+    "privacyContactCopy": "Die Datenschutzhinweise zur Kontaktaufnahme werden vor finaler Kundenübergabe anhand der tatsächlichen Kontaktwege rechtlich geprüft und ergänzt.",
+    "privacyHostingCopy": "Die Hosting- und Logdatenhinweise des Vercel-Drafts werden vor finaler Kundenübergabe fachlich geprüft und ergänzt.",
+    "privacyMapsCopy": "Die Kartenansicht wird erst nach einem bewussten Klick geladen. Der endgültige Datenschutzhinweis zu Google Maps wird vor finaler Kundenübergabe rechtlich geprüft und ergänzt."
   },
   "handover": {
     "claimsConfirmed": false,

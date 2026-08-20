@@ -16,9 +16,10 @@ export default function PrivacyPage() {
         <h1>Datenschutz</h1>
         {needsReview ? (
           <aside className="template-notice">
-            Dies ist ein Kundenentwurf, keine fertige Datenschutzerklärung.
-            Vor Veröffentlichung muss der Text an Betreiber, Hosting, Kartenmodus
-            und tatsächliche Datenflüsse angepasst und fachlich geprüft werden.
+            Dies ist ein öffentlich erreichbarer Kundenentwurf, keine fertige
+            Datenschutzerklärung. Vor der Kundenübergabe muss der Text an Betreiber,
+            Hosting, Kartenmodus und tatsächliche Datenflüsse angepasst und fachlich
+            geprüft werden.
           </aside>
         ) : null}
         <h2>Verantwortlicher</h2>
