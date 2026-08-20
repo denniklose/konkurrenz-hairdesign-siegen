@@ -34,8 +34,7 @@ export default function PrivacyPage() {
         <p className="legal-copy-block">{salon.legal.privacyMapsCopy}</p>
         <h2>Keine eigenen Analyse-Tools</h2>
         <p className="legal-copy-block">
-          Diese Aussage darf nur veröffentlicht werden, wenn sie für den finalen
-          technischen Stand zutrifft.
+          Auf dieser Website sind derzeit keine eigenen Analyse-Tools eingebunden.
         </p>
       </section>
       <SiteFooter />
