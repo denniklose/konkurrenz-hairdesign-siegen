@@ -36,7 +36,7 @@ export default function InnerPageHero({
         ) : null}
       </div>
       <div className="inner-hero-mark">
-        <BrandMark className="inner-hero-logo" sizes="176px" />
+        <BrandMark className="inner-hero-logo" sizes="176px" tone="white" />
         <small>{site.address[0]}</small>
         <strong>{site.address[1]}</strong>
       </div>

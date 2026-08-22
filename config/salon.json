@@ -21,8 +21,9 @@
     "accent": "#e05a5a",
     "accentBright": "#f18a8a",
     "accentDeep": "#9e3036",
-    "logo": "/images/konkurrenz-mark.svg",
-    "favicon": "/favicon.svg"
+    "logo": "/images/konkurrenz-logo-red.png",
+    "logoLight": "/images/konkurrenz-logo-white.png",
+    "favicon": "/images/konkurrenz-logo-red.png"
   },
   "navigation": [
     { "label": "Start", "href": "/" },

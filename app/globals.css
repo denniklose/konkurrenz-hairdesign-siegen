@@ -243,9 +243,11 @@ main,
 
 .wordmark-badge img,
 .phone-card-mark img,
-.address-mark img {
+.address-mark img,
+.inner-hero-logo img {
   object-fit: contain;
   padding: 0;
+  transform: scale(1.2);
 }
 
 .wordmark-copy {

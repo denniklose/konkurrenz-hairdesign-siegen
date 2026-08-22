@@ -76,7 +76,7 @@ export default function Home() {
             <span>{history[0].copy}</span>
           </article>
           <a className="bento-card phone-card" href={site.phoneHref}>
-            <BrandMark className="phone-card-mark" />
+            <BrandMark className="phone-card-mark" tone="white" />
             <span className="phone-card-copy">
               Besprich deinen Wunsch direkt mit dem Salon.
             </span>

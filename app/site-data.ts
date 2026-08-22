@@ -36,6 +36,7 @@ export type SalonConfig = {
     accentBright: string;
     accentDeep: string;
     logo: string;
+    logoLight: string;
     favicon: string;
   };
   navigation: Array<{ label: string; href: string }>;

@@ -2,18 +2,34 @@
   "assets": [
     {
       "path": "/images/konkurrenz-mark.svg",
-      "purpose": "Kundenentwurf-Logo in Header, Footer und Kontaktkarten",
-      "alt": "Fließendes K-Monogramm für Konkurrenz Hairdesign",
+      "purpose": "Früheres Logo, nicht mehr aktiv",
+      "alt": "Früheres fließendes K-Monogramm für Konkurrenz Hairdesign",
       "source": "Originales Vektorzeichen, für diesen Kundenentwurf am 2026-08-20 im Repository erstellt",
       "license": "Projektinternes Originalasset; finale Marken- und Kundennutzungsfreigabe steht aus",
       "approved": false
     },
     {
       "path": "/favicon.svg",
-      "purpose": "Browser-Favicon des Kundenentwurfs",
-      "alt": "Fließendes K-Monogramm als Favicon für Konkurrenz Hairdesign",
+      "purpose": "Früheres Favicon, nicht mehr aktiv",
+      "alt": "Früheres fließendes K-Monogramm als Favicon für Konkurrenz Hairdesign",
       "source": "Originales Vektorzeichen, für diesen Kundenentwurf am 2026-08-20 im Repository erstellt",
       "license": "Projektinternes Originalasset; finale Marken- und Kundennutzungsfreigabe steht aus",
+      "approved": false
+    },
+    {
+      "path": "/images/konkurrenz-logo-red.png",
+      "purpose": "Aktives Logo in Header, Footer und dunklen Flächen sowie Browser-Favicon",
+      "alt": "Rotes Scheren-K-Monogramm für Konkurrenz Hairdesign",
+      "source": "Vom Auftraggeber bereitgestellte Originalgrafik aus dem Anhang vom 22.08.2026",
+      "license": "Kundenbereitgestelltes Logo-Asset; finale schriftliche Handover-Freigabe steht aus",
+      "approved": false
+    },
+    {
+      "path": "/images/konkurrenz-logo-white.png",
+      "purpose": "Aktives Logo auf roten Flächen, Kontaktkarten und Unterseiten-Markenflächen",
+      "alt": "Weißes Scheren-K-Monogramm für Konkurrenz Hairdesign",
+      "source": "Vom Auftraggeber bereitgestellte Originalgrafik aus dem Anhang vom 22.08.2026",
+      "license": "Kundenbereitgestelltes Logo-Asset; finale schriftliche Handover-Freigabe steht aus",
       "approved": false
     },
     {

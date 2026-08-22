@@ -4,7 +4,7 @@ import { site } from "../site-data";
 export default function ContactCard() {
   return (
     <article className="bento-card address-card">
-      <BrandMark className="address-mark" />
+      <BrandMark className="address-mark" tone="white" />
       <p className="section-kicker">Adresse</p>
       <h2>
         {site.address[0]}
